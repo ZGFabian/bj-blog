@@ -70,8 +70,8 @@ social-network-links:
   rss: true
   email: "someone@example.com"
   facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: ZGFabian
+  twitter: ZoltanGFabian
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -89,11 +89,11 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "zgfabian.github.io/bj"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
