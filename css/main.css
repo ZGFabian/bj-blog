@@ -1,7 +1,8 @@
 ---
 layout: null
 ---
-
+/* --- Syntax highligting --- */
+/* --- @import url("pygment_highlights.css"); --- */
 @import url("monokai.css");
 
 /* --- General --- */
