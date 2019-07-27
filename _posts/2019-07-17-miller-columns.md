@@ -2,7 +2,7 @@
 layout: post
 title: "Miller columns"
 subtitle: A historical investigation into the origin of Ranger FM
-tags: Miller columns, Ranger FM
+tags: [Miller columns, Ranger FM]
 lang: en
 ---
 
