@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Miller columns"
-subtitle: A historical investigation into the origin of Ranger fm
+subtitle: A historical investigation into the origin of Ranger FM
+tags: Miller columns, Ranger FM
 lang: en
 ---
 
@@ -11,4 +12,7 @@ A recent example of using Miller columns is  [Ranger](https://github.com/ranger/
 
 ![Ranger screenshot](https://raw.githubusercontent.com/ranger/ranger-assets/master/screenshots/screenshot.png){: .center-block :}
 
+<!--- The next lines commented out, since they were replaced by markdown: 
 <figure class="aligncenter size-large"><img src="https://raw.githubusercontent.com/ranger/ranger-assets/master/screenshots/screenshot.png" alt="Miller columns in Ranger"/></figure>
+-->
+
