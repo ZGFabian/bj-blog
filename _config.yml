@@ -21,7 +21,7 @@ description: Fábián Zoltán
 # List of links in the navigation bar
 navbar-links:
   Mi ez: "aboutme"
-  Oldalak: ""
+  Oldalak:
     - Adatvizualizáció: "" 
   Továbbiak:
     - Beautiful Jekyll theme: "http://deanattali.com/beautiful-jekyll/"
