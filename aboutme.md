@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: Why you'd want to go on a date with me
+title: About me
+subtitle: Fábián Zoltán
 permalink: /aboutme/
 tags: [Francois Villon, Zoltán Fábián]
 lang: hu
