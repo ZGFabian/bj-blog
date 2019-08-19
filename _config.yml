@@ -4,7 +4,7 @@
 title: Blablabla
 
 # Short description of your site
-description: Fábián Zoltán weboldala 
+description: Talált dolgok 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -23,6 +23,7 @@ navbar-links:
   EzMiEz: "aboutme"
   Oldalak:
     - Címkék: "/tags/"
+    - Kategóriák: /categories/
     - Adatvizualizáció: "" 
   Továbbiak:
     - Bejegyzésminták: "/samples/"
