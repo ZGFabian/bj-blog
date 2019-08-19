@@ -14,7 +14,7 @@ description: Talált dolgok
 #url: ""
 
 # baseurl should be an empty string
-baseurl: "/bj"
+#baseurl: ""
 
 # --- Navigation bar options --- #
 
