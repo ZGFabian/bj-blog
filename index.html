@@ -62,12 +62,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum voluptate recusa
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Újabb bejegyzések</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
+    <a href="{{ paginator.next_page_path | relative_url }}">Régebbiek &rarr;</a>
   </li>
   {% endif %}
 </ul>
