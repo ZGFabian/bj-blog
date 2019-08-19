@@ -14,13 +14,13 @@ description: Talált dolgok
 #url: "https://example.com"
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  EzMiEz: "aboutme"
+  EzMiEzKi: "aboutme"
   Oldalak:
     - Címkék: "/tags/"
     - Kategóriák: /categories/
