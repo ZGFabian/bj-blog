@@ -14,7 +14,7 @@ description: Talált dolgok
 #url: "https://example.com"
 
 # baseurl should be an empty string
-baseurl: ""
+baseurl: "/bj"
 
 # --- Navigation bar options --- #
 
