@@ -14,7 +14,7 @@ samples/2015-01-15-pirates.md
 samples/2015-01-19-soccer.md  
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.pages %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
