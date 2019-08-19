@@ -127,7 +127,7 @@ url-pretty: "zgfabian.github.io/bj"  # eg. "deanattali.com/beautiful-jekyll"
 #just-comments: "ABCD-EFGH-IJKL"
 
 # To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
+fb_comment_id: "1144827619044688"
 
 # To use Staticman comments, fill in repository, branch, and endpoint
 staticman:
