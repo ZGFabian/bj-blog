@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Hello World!
-subtitle: Fábián Zoltán 
+subtitle: Fábián Zoltán személyes weboldala
 use-site-title: true
 ---
 
-Fábián Zoltán személyes weboldala
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum voluptate recusandae animi commodi, praesentium modi distinctio sapiente similique voluptas natus dolorem, deleniti neque sint delectus alias enim voluptates aliquam? Ex! 
 
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -21,7 +21,7 @@ Fábián Zoltán személyes weboldala
     </a>
 
     <p class="post-meta">
-      Közzétéve: {{ post.date | date: "%B %-d, %Y" }}
+      Közzétéve: {{ post.date | date: "%Y-%m-%d %H:%M:%S" }}
     </p>
 
     <div class="post-entry-container">
