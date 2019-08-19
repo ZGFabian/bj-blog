@@ -22,6 +22,7 @@ description: Fábián Zoltán weboldala
 navbar-links:
   EzMiEz: "aboutme"
   Oldalak:
+    - Címkék: "/tags/"
     - Adatvizualizáció: "" 
   Továbbiak:
     - Bejegyzésminták: "/samples/"
