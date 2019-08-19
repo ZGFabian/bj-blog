@@ -16,7 +16,7 @@ samples/2015-01-19-soccer.md
 <ul>
   {% for post in site.pages %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>
