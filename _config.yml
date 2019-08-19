@@ -21,12 +21,13 @@ baseurl: "/bj"
 # List of links in the navigation bar
 navbar-links:
   EzMiEzKi: "aboutme"
-  Oldalak:
+  Generátor:
     - Címkék: "/tags/"
     - Kategóriák: /categories/
     - Adatvizualizáció: "" 
   Továbbiak:
     - Bejegyzésminták: "/samples/"
+    - Jekyll cheats: "https://devhints.io/jekyll"
     - Beautiful Jekyll theme: "http://deanattali.com/beautiful-jekyll/"
     - Markdown: "http://www.markdowntutorial.com/"
 
