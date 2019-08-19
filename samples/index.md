@@ -20,3 +20,11 @@ samples/2015-01-19-soccer.md
     </li>
   {% endfor %}
 </ul>
+
+<pre>
+    site: {{ site | jsonify | escape }}
+    page: {{ page | jsonify | escape }}
+    layout: {{ layout | jsonify | escape }}
+    content: {{ content | jsonify | escape }}
+    paginator: {{ paginator | jsonify | escape }}
+</pre>
