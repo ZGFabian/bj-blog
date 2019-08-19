@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Minták
+title: Markdown példák
 subtitle: Teszt oldalak
 permalink: /samples/
-tags: [a1, Zoltán Fábián]
+tags: [markdown]
 lang: hu
 ---
 
 Tartalom
 
-samples/2015-01-04-first-post.md
-samples/2015-01-15-pirates.md
-samples/2015-01-19-soccer.md
+samples/2015-01-04-first-post.md  
+samples/2015-01-15-pirates.md  
+samples/2015-01-19-soccer.md  
