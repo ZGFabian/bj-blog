@@ -20,7 +20,7 @@ description: Fábián Zoltán
 
 # List of links in the navigation bar
 navbar-links:
-  Mi ez: "aboutme"
+  EzMiEz: "aboutme"
   Oldalak:
     - Adatvizualizáció: "" 
   Továbbiak:
