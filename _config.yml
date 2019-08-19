@@ -24,7 +24,7 @@ navbar-links:
   Oldalak:
     - Adatvizualizáció: "" 
   Továbbiak:
-    - Bejegyzésminták: "/samples/contents.md"
+    - Bejegyzésminták: "/samples/"
     - Beautiful Jekyll theme: "http://deanattali.com/beautiful-jekyll/"
     - Markdown: "http://www.markdowntutorial.com/"
 
