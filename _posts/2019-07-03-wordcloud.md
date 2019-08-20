@@ -7,6 +7,9 @@ tags: [Harrari, szófelhő]
 image: /img/sap_wc.png
 ---
 I am just reading Y. N. Harari’s bestseller book, _Sapiens: A Brief History Of Humankind_. I will use it’s text to demonstrate some basic capacities of R to analyse texts quantitatively.
+
+<img src="{{ site.url }}/img/sap_wc.png" alt="Szófelhő">
+
 ![](/img/sap_wc.png)
 The book is downloadable from the the [Internet Archive](https://archive.org/details/sapiensabriefhistoryofhumankindyuvalnoahharari) in several formats. I got it in EPUB for my Calibre e-book collection then converted to plain text in Calibre. 
 The R codes were borrowed with minor modifications from this [guide](http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know) to text mining fundamentals in R.
