@@ -1,16 +1,15 @@
 ---
 layout: post
-title: "Szófelhő készítése R-ben"
-subtitle: "Harrari Sapiens"
+title: "Creating wordcloud in R"
+subtitle: "Harrari's Sapiens in Wes Anderson colours:"
 categories: [R, adatvizualizáció, történelem]
 tags: [Harrari, szófelhő]
 image: /img/sap_wc.png
+lang: en
 ---
-I am just reading Y. N. Harari’s bestseller book, _Sapiens: A Brief History Of Humankind_. I will use it’s text to demonstrate some basic capacities of R to analyse texts quantitatively.
+I am just reading Y. N. Harari’s bestseller book, _Sapiens: A Brief History Of Humankind_. I will use it’s text to demonstrate some basic capacities of R to analyse texts quantitatively. And also wnted to give a try to use a color scheme named after my favourite director, Wes Anderson.
 
 <img src="{{ site.url }}/img/sap_wc.png" alt="Szófelhő">
-
-![](/img/sap_wc.png)
 The book is downloadable from the the [Internet Archive](https://archive.org/details/sapiensabriefhistoryofhumankindyuvalnoahharari) in several formats. I got it in EPUB for my Calibre e-book collection then converted to plain text in Calibre. 
 The R codes were borrowed with minor modifications from this [guide](http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know) to text mining fundamentals in R.
 
