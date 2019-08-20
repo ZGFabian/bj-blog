@@ -4,6 +4,7 @@ title: "Y. N. Harrari: Sapiens"
 subtitle: "Olvasónapló"
 categories: [társadalomkutatás, történelem]
 tags: [Harrari, könyv]
+image: /img/blabla_av_white_bg.png
 ---
 
 Harrari Sapiens című könyvének első bekezdéseiben elhatárolja a tudományterületeket történelmi kontextusba helyezve. 
