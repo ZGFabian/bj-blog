@@ -98,13 +98,13 @@ dev.off()
 - [Word cloud generator in R:](http://www.sthda.com/english/wiki/word-cloud-generator-in-r-one-killer-function-to-do-everything-you-need) One killer function to do everything you need
 - [The A–Z of RColorBrewer Palette](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/)
 - [Basics of Text Mining in R](http://rstudio-pubs-static.s3.amazonaws.com/256588_57b585da6c054349825cba46685d8464.html) – Bag of Words
-
+- [A Wes Anderson color palette for R](https://github.com/karthik/wesanderson)
 ![](https://raw.githubusercontent.com/karthik/wesanderson/master/figure/fantasticfox-1.png)
 
 {: style="text-align: center;"}
 ## Happy End 
 
-PS. What about Fantastic Mr. Fox, the guy from `wes_palette`?
+Wait! What about the Fantastic Mr. Fox, the guy from `wes_palette`?
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_BzxFkkImI?start=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
