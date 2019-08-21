@@ -5,6 +5,7 @@ subtitle: "Olvasónapló"
 categories: [társadalomkutatás, történelem]
 tags: [Harrari, könyv]
 image: /img/blabla_av_white_bg.png
+lang: hu
 ---
 
 <i class="fa fa-book"></i> Harrari Sapiens című könyvének első bekezdéseiben elhatárolja a tudományterületeket történelmi kontextusba helyezve. 

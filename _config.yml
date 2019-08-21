@@ -26,6 +26,7 @@ navbar-links:
   Generator:
     - Címkék_tags: "/tags/"
     - Kategóriák_categories: /categories/
+    - English posts pls: /en/english-only/
     - Adatvizualizáció: "" 
   Továbbiak:
     - Jekyll cheats: "https://devhints.io/jekyll"
