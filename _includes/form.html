@@ -32,7 +32,7 @@
     <input type="hidden" name="_subject" value="{{ pageform.subject }}" />
 
     {% for item in pageform.fields %}
-        {% if item.required %}{% assign requiredstar = '' %}{% else %}{% assign requiredstar = ' (optional)' %}{% endif %}
+        {% if item.required %}{% assign requiredstar = '' %}{% else %}{% assign requiredstar = ' (nem kötelező / optional)' %}{% endif %}
         {% if item.required %}{% assign requiredtext = 'required' %}{% else %}{% assign requiredtext = '' %}{% endif %}
 
         {% if item.input_type == 'textarea' %}
@@ -77,11 +77,11 @@
             {% if item.name == 'name' %}
                 <div class="row form-group">
                     <div class="col-sm-6">
-                        <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="firstname">First name{{ requiredstar }}</label>
+                        <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="firstname">Keresztnév / First name{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="firstname" id="firstname" class="form-control" {% if pageform.placeholders == true %}placeholder="First name{{ requiredstar }}"{% endif %} {{ requiredtext }}>
                     </div>
                     <div class="col-sm-6">
-                        <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="lastname">Last name{{ requiredstar }}</label>
+                        <label {% if pageform.placeholders == true %}class="sr-only"{% endif %} for="lastname">Vezetéknév / Last name{{ requiredstar }}</label>
                         <input type="{{ item.input_type }}" name="lastname" id="lastname" class="form-control" {% if pageform.placeholders == true %}placeholder="Last name{{ requiredstar }}"{% endif %} {{ requiredtext }}>
                     </div>
                 </div>
