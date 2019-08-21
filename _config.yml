@@ -20,7 +20,8 @@ description: Talált dolgok
 
 # List of links in the navigation bar
 navbar-links:
-  EzMiEzKi: "aboutme"
+  ???: 
+    - About me: "en/aboutme"
   Generátor:
     - Címkék: "/tags/"
     - Kategóriák: /categories/
