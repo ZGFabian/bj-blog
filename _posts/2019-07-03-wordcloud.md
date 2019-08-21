@@ -3,11 +3,11 @@ layout: post
 title: "Creating wordcloud in R"
 subtitle: "Harrari's Sapiens in Wes Anderson colours:"
 categories: [R, adatvizualizáció, történelem]
-tags: [Harrari, szófelhő]
-image: /img/sap_wc.png
+tags: [Harrari, szófelhő, Wes Anderson]
+image: /img/sap_wc_small.png
 lang: en
 ---
-I am just reading Y. N. Harari’s bestseller book, _Sapiens: A Brief History Of Humankind_. I will use it’s text to demonstrate some basic capacities of R to analyse texts quantitatively. And also wnted to give a try to use a color scheme named after my favourite director, Wes Anderson.
+I am just reading Y. N. Harari’s bestseller book, _Sapiens: A Brief History Of Humankind_. I will use it’s text to demonstrate some basic capacities of R to analyse texts quantitatively. And also wanted to give a try to a color scheme named after the director, [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson).
 
 <img src="{{ site.url }}/img/sap_wc.png" alt="Szófelhő">
 The book is downloadable from the the [Internet Archive](https://archive.org/details/sapiensabriefhistoryofhumankindyuvalnoahharari) in several formats. I got it in EPUB for my Calibre e-book collection then converted to plain text in Calibre. 
@@ -98,3 +98,11 @@ dev.off()
 - [Word cloud generator in R:](http://www.sthda.com/english/wiki/word-cloud-generator-in-r-one-killer-function-to-do-everything-you-need) One killer function to do everything you need
 - [The A–Z of RColorBrewer Palette](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/)
 - [Basics of Text Mining in R](http://rstudio-pubs-static.s3.amazonaws.com/256588_57b585da6c054349825cba46685d8464.html) – Bag of Words
+
+{: style="text-align: center;"}
+## Happy End 
+
+PS. What about Fantastic Mr. Fox, the guy from `wes_palette`?
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K_BzxFkkImI?start=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
