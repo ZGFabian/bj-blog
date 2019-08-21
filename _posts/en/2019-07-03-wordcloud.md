@@ -4,7 +4,7 @@ title: "Creating wordcloud in R"
 subtitle: "Harrari's Sapiens in Wes Anderson colours:"
 categories: [R, adatvizualizáció, történelem]
 tags: [Harrari, szófelhő, Wes Anderson, Mr. Fox]
-image: /img/sap_wc_small.png
+image: /img/mrfox.jpg
 lang: en
 ---
 I am just reading Y. N. Harari’s bestseller book, _Sapiens: A Brief History Of Humankind_. I will use it’s text to demonstrate some basic capacities of R to analyse texts quantitatively. And also wanted to give a try to a [color scheme](https://github.com/karthik/wesanderson) named after the American filmmaker, [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson).
