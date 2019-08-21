@@ -23,6 +23,6 @@ Hello
 
 [video](https://youtu.be/s0uawtiiNY4)
 
-![pic1](/img/fa_album/birka.jpg)
+[pic1](/img/fa_album/birka.jpg)
 
 {% include image-gallery.html folder="/img/fa_album" %}
