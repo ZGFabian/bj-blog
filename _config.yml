@@ -20,15 +20,14 @@ description: Talált dolgok
 
 # List of links in the navigation bar
 navbar-links:
-  ???: 
+  W??: 
     - About me: "en/aboutme"
     - Bemutatkozás: "hu/aboutme"
-  Generátor:
-    - Címkék: "/tags/"
-    - Kategóriák: /categories/
+  Generator:
+    - Címkék_tags: "/tags/"
+    - Kategóriák_categories: /categories/
     - Adatvizualizáció: "" 
   Továbbiak:
-    - Bejegyzésminták: "/samples/"
     - Jekyll cheats: "https://devhints.io/jekyll"
     - Beautiful Jekyll theme: "http://deanattali.com/beautiful-jekyll/"
     - Markdown: "http://www.markdowntutorial.com/"
