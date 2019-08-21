@@ -102,9 +102,7 @@ dev.off()
 ![](https://raw.githubusercontent.com/karthik/wesanderson/master/figure/fantasticfox-1.png)
 
 {: style="text-align: center;"}
-## Happy End 
+## (Almost) Happy End 
 
-Wait! What about the Fantastic Mr. Fox, the guy from `wes_palette`?
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K_BzxFkkImI?start=7" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+Wait! What about the Fantastic Mr. Fox, the guy from `wes_palette`?  
+Click [here](https://youtu.be/K_BzxFkkImI?t=6) to meet him.
