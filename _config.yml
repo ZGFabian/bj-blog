@@ -22,6 +22,7 @@ description: Talált dolgok
 navbar-links:
   ???: 
     - About me: "en/aboutme"
+    - Bemutatkozás: "hu/aboutme"
   Generátor:
     - Címkék: "/tags/"
     - Kategóriák: /categories/
