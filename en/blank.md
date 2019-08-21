@@ -1,8 +1,7 @@
 ---
-layout: default
+layout: page
 title: ID
 subtitle: Zoltán Fábián
-permalink: /en/blank/
 tags: [Francois Villon]
 lang: en
 ---
@@ -19,3 +18,11 @@ lang: en
         </div>
     </div>
 </div>
+
+Hello
+
+[video](https://youtu.be/s0uawtiiNY4)
+
+![pic1](/img/fa_album/birka.jpg)
+
+{% include image-gallery.html folder="/img/fa_album" %}
