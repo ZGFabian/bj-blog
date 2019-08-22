@@ -5,6 +5,7 @@ subtitle: "Harrari's Sapiens in Wes Anderson colours:"
 categories: [R, adatvizualizáció, történelem]
 tags: [Harrari, szófelhő, Wes Anderson, Mr. Fox]
 image: /img/mrfox.jpg
+googlefonts: ["Fredoka One"]
 lang: en
 ---
 I am just reading Y. N. Harari’s bestseller book, _Sapiens: A Brief History Of Humankind_. I will use it’s text to demonstrate some basic capacities of R to analyse texts quantitatively. And also wanted to give a try to a [color scheme](https://github.com/karthik/wesanderson) named after the American filmmaker, [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson).
@@ -99,10 +100,11 @@ dev.off()
 - [The A–Z of RColorBrewer Palette](https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/)
 - [Basics of Text Mining in R](http://rstudio-pubs-static.s3.amazonaws.com/256588_57b585da6c054349825cba46685d8464.html) – Bag of Words
 - [A Wes Anderson color palette for R](https://github.com/karthik/wesanderson)
-![](https://raw.githubusercontent.com/karthik/wesanderson/master/figure/fantasticfox-1.png)
+
 
 {: style="text-align: center;"}
 ## (Almost) Happy End 
 
-Wait! What about the Fantastic Mr. Fox, the guy from `wes_palette`?  
+<h1 style="font-family:Fredoka One;">Wait! What about the Fantastic Mr. Fox, the guy from `wes_palette`?</h1>
 Click [here](https://youtu.be/K_BzxFkkImI?t=6) to meet him.
+[![](https://raw.githubusercontent.com/karthik/wesanderson/master/figure/fantasticfox-1.png)](https://youtu.be/K_BzxFkkImI?t=6)
