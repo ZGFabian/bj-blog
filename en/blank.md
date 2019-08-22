@@ -20,7 +20,7 @@ lang: en
 
 
 - Hello, this is a [yt video link](https://youtu.be/s0uawtiiNY4), created with lightbox.js. (Credit: [Jekyll codex](https://jekyllcodex.org/without-plugins/)) Lightbox is included in `base.html` in `_layouts folder`.
-- Picture of a [SHEEPCOW](/img/fa_album/birka.jpg) - Art by FaFa / Also credit goes to [Jekyll codex](https://jekyllcodex.org/without-plugins/).
+- Picture of a [SHEEPCOW](/img/fa_album/image1.jpg) - Art by FaFa / Also credit goes to [Jekyll codex](https://jekyllcodex.org/without-plugins/).
 - This is going to be an image gallery. Credits: FaFa / [Jekyll codex](https://jekyllcodex.org/without-plugins/)
 
 {% include image-gallery.html folder="/img/fa_album" %}
