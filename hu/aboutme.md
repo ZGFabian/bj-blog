@@ -16,7 +16,7 @@ tudom, hogy minden egy dolog,
 tudom a munkát, lusta kedvet,  
 csak azt nem tudom, ki vagyok.
 
-Francois Villon: Apró képek balladája (Szabó Lőrinc fordítása)  
+Francois Villon: Apró képek balladája ([Szabó Lőrinc ](https://en.wikipedia.org/wiki/L%C5%91rinc_Szab%C3%B3fordítása)  
 
 
 
