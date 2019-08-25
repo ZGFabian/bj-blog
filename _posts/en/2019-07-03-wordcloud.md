@@ -2,8 +2,8 @@
 layout: post
 title: "Creating wordcloud in R"
 subtitle: "Harrari's Sapiens in Wes Anderson colours:"
-categories: [R, adatvizualizáció, történelem]
-tags: [Harrari, szófelhő, Wes Anderson, Mr. Fox]
+categories: [R, data visualization, history]
+tags: [Harrari, wordcloud, Wes Anderson, Mr. Fox]
 image: /img/mrfox.jpg
 googlefonts: ["Fredoka One"]
 lang: en

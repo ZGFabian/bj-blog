@@ -2,6 +2,7 @@
 layout: post
 title: "Miller columns"
 subtitle: A historical investigation into the origin of Ranger FM
+categories: [Linux]
 tags: [Miller columns, Ranger FM]
 image: /img/three_columns.jpg
 lang: en
