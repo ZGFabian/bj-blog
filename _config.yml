@@ -20,13 +20,14 @@ description: Talált dolgok
 
 # List of links in the navigation bar
 navbar-links:
-  W??: 
+  En: 
     - About me: "en/aboutme"
-    - Bemutatkozás: "hu/aboutme"
-  Generator:
+    - About the site: "en/about_site"
+    - Posts: /en/english-only/
+  Hu:
+    - Bemutatkozás: "/hu/aboutme"
     - Címkék_tags: "/tags/"
     - Kategóriák_categories: /categories/
-    - English posts pls: /en/english-only/
     - Adatvizualizáció: "" 
   Továbbiak:
     - Jekyll cheats: "https://devhints.io/jekyll"
