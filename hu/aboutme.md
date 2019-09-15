@@ -6,7 +6,6 @@ permalink: /hu/aboutme/
 tags: [Francois Villon]
 lang: hu
 ---
-Hello Simon!
 
 Tudom, mi tejben a légy,  
 tudom, ruha teszi az embert,  
