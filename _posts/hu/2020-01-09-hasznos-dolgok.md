@@ -1,11 +1,13 @@
 ---
 layout: post
-title: Hasznos dolgok semmit tevéshez
+title: Hasznos dolgok semmittevéshez
 subtitle: links
 categories: [links]
 tags: [links]
 lang: hu
 ---
+Hasznos dolgok semmittevéshez - Tools for idleness
+
 
 [Időbélyegek eltávolítása felirat fájlokból (srt)](https://anatolt.ru/t/del-timestamp-srt.html)
 
