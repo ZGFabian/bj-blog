@@ -6,14 +6,11 @@ permalink: /hu/aboutme/
 tags: [Francois Villon]
 lang: hu
 ---
-<<<<<<< HEAD
 Nem szeretnék túl sokat írni magamról, de ez az egyik kedvenc Villon versem:
 
 "Tudom, mi tejben a légy,  
-=======
 !!!
 Tudom, mi tejben a légy,  
->>>>>>> da11ccc51622c93555b7c1eaa91e04fe385bde92
 tudom, ruha teszi az embert,  
 tudom, az új tavasz mi szép,  
 tudom, mely gyümölcs, merre termett,  
