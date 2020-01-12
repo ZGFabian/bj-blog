@@ -21,16 +21,17 @@ Fábián, Z., Kolosi, T., & Róbert, P. (2000). Fogyasztás és életstílus. In
 
 Fábián, Z., Kolosi, T., & Róbert, P. (2000). Fogyasztási csoportok (No. 20). Retrieved from [TÁRKI](http://old.tarki.hu/adatbank-h/kutjel/pdf/a405.pdf)
 
-Kolosi, T., Róbert, P., & Fábián, Z. (2000). A jövedelmek szerkezete. In P. Szivós & I. G. Tóth (Eds.), Növekedés alulnézetben. Retrieved from TÁRKI website: http://old.tarki.hu/adatbank-h/kutjel/pdf/a316.pdf
+Kolosi, T., Róbert, P., & Fábián, Z. (2000). A jövedelmek szerkezete. In P. Szivós & I. G. Tóth (Eds.), Növekedés alulnézetben. Retrieved from [TÁRKI](http://old.tarki.hu/adatbank-h/kutjel/pdf/a316.pdf)
 
 Fábián, Z. (2005). Törésvonalak és a politikai ideológiai azonosulás szerepe a pártszimpátiák magyarázatában. In R. Angelusz & R. Tardos (Eds.), Törések, hálók, hidak. Választói magatartás és politikai tagolódás (pp. 207–242). Budapest: Demokrácia Kutatások Magyar Központja Alapítvány.
 
 Fábián, Z. (2012). Pártrendszer és a társadalmi kohézió jelzőszámai Magyarországon. In T. Kolosi & I. G. Tóth (Eds.), Társadalmi Riport 2012 (pp. 293–313). Budapest.
+
 Enyedi, Z., Fábián, Z., & Tardos, R. (2014). Pártok és szavazók, 2002–2014 (T. Kolosi & I. G. Tóth, eds.). Retrieved from http://www.tarki.hu/adatbank-h/kutjel/pdf/b344.pdf
 
 Fábián, Z., Gábos, A., Kopasz, M., Medgyesi, M., Szivós, P., & Tóth, I. G. (2014). Hungary: A country caught in its own trap. In B. Nolan, W. Salverda, D. Checchi, I. Marx, A. McKnight, I. G. Tóth, & H. van de Werfhorst (Eds.), Changing Inequalities and Societal Impacts in Rich Countries: Thirty Countries’ Experiences (pp. 322–345). Oxford: Oxford University Press.
 
-Fábián, Z., Matsaganis, M., Tóth, I. G., & Veliziotis, M. (2014). The legacy of the recession: values and societal issues (No. 7/2014). Retrieved from http://ec.europa.eu/social/BlobServlet?docId=13869&langId=en
+Fábián, Z., Matsaganis, M., Tóth, I. G., & Veliziotis, M. (2014). The legacy of the recession: values and societal issues (No. 7/2014). Retrieved from the [European Commission](http://ec.europa.eu/social/BlobServlet?docId=13869&langId=en)
 
 Tóth, I. G., & Fábián, Z. (2014). Az újraelosztás iránti kereslet változása a válság időszakában az Európai Unió országaiban. In T. Kolosi (Ed.), Társadalmi Riport 2014 (pp. 454–485). Retrieved from http://old.tarki.hu/adatbank-h/kutjel/pdf/b341.pdf
 
