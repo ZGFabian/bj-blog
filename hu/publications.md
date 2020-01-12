@@ -15,7 +15,7 @@ Fábián, Z. (1999). The middle strata in transformation. In R. Andorka, T. Kolo
 
 Fábián, Z., Róbert, P., & Szivós, P. (1999). The social milieu of material-welfare status groups (T. Kolosi, Ed.). Social Report 1998, pp. 79–99. Budapest: TÁRKI.
 
-Fábián, Z., Kolosi, T., & Róbert, P. (2000). Fogyasztás és életstílus. In T. Kolosi, I. G. Tóth, & G. Vukovich (Eds.), Társadalmi riport 2000 (pp. 225–259). Retrieved from [TÁRKI](http://old.tarki.hu/adatbank-h/kutjel/pdf/a850.pdf) [Download here.]()
+Fábián, Z., Kolosi, T., & Róbert, P. (2000). Fogyasztás és életstílus. In T. Kolosi, I. G. Tóth, & G. Vukovich (Eds.), Társadalmi riport 2000 (pp. 225–259). Retrieved from [TÁRKI](http://old.tarki.hu/adatbank-h/kutjel/pdf/a850.pdf) [Download hereHERE.]()
 
 Kolosi, T., Róbert, P., & Fábián, Z. (2000). A jövedelmek szerkezete. In P. Szivós & I. G. Tóth (Eds.), Növekedés alulnézetben. Retrieved from TÁRKI website: http://old.tarki.hu/adatbank-h/kutjel/pdf/a316.pdf
 
