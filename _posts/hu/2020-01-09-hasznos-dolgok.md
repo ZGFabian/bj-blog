@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hasznos dolgok semmittevéshez
-subtitle: links
+title: Hasznos dolgok 
+subtitle: semmittevéshez
 categories: [links]
 tags: [links]
 lang: hu
