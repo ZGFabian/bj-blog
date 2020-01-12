@@ -13,7 +13,8 @@ Fábián, Z. (1999). Tekintélyelvűség és előítéletek. Budapest: Új Mand�
 
 Fábián, Z. (1999). The middle strata in transformation. In R. Andorka, T. Kolosi, & R. Rose (Eds.), A Society Transformed: Hungary in Time-Space Perspective (pp. 97–112). Budapest: Central European University Press.
 
-Fábián, Z. (1994). [A középrétegek: Adalékok a posztkommunista átmenet társadalmi és társadalomlélektani hatásaihoz.](https://drive.google.com/file/d/10dFFX_2jwtXSPD3OM5mLoRIXiEirnbqG/view?usp=sharing) In R. Andorka, T. Kolosi, & G. Vukovich (Eds.), Társadalmi Riport 1994 (pp. 351–377). Retrieved from [TÁRKI](http://old.tarki.hu/adatbank-h/kutjel/pdf/a918.pdf) 
+Fábián, Z. (1994). [A középrétegek: Adalékok a posztkommunista átmenet társadalmi és társadalomlélektani hatásaihoz.](https://drive.google.com/file/d/10dFFX_2jwtXSPD3OM5mLoRIXiEirnbqG/view?usp=sharing){:target="_blank"}
+In R. Andorka, T. Kolosi, & G. Vukovich (Eds.), Társadalmi Riport 1994 (pp. 351–377). Retrieved from [TÁRKI](http://old.tarki.hu/adatbank-h/kutjel/pdf/a918.pdf) 
 
 Fábián, Z., Róbert, P., & Szivós, P. (1999). The social milieu of material-welfare status groups (T. Kolosi, Ed.). Social Report 1998, pp. 79–99. Budapest: TÁRKI.
 
@@ -40,5 +41,3 @@ Kolosi, T., & Fábián, Z. (2016). Vagyoneloszlás Magyarországon. In T. Kolosi
 
 
 Továbbiak az [mtmt adatbázisban](https://m2.mtmt.hu/gui2/?type=authors&mode=browse&sel=10020935)
-
-<iframe src="https://drive.google.com/file/d/10dFFX_2jwtXSPD3OM5mLoRIXiEirnbqG/preview" width="640" height="480"></iframe>
