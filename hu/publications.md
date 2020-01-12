@@ -40,3 +40,5 @@ Kolosi, T., & Fábián, Z. (2016). Vagyoneloszlás Magyarországon. In T. Kolosi
 
 
 Továbbiak az [mtmt adatbázisban](https://m2.mtmt.hu/gui2/?type=authors&mode=browse&sel=10020935)
+
+<iframe src="https://drive.google.com/file/d/10dFFX_2jwtXSPD3OM5mLoRIXiEirnbqG/preview" width="640" height="480"></iframe>
