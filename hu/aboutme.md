@@ -6,10 +6,8 @@ permalink: /hu/aboutme/
 tags: [Francois Villon]
 lang: hu
 ---
-Nem szeretnék túl sokat írni magamról, de ez az egyik kedvenc Villon versem:
 
 "Tudom, mi tejben a légy,  
-!!!
 Tudom, mi tejben a légy,  
 tudom, ruha teszi az embert,  
 tudom, az új tavasz mi szép,  
