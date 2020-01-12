@@ -1,7 +1,7 @@
 ---
 layout: projects
 title: Afghan biscuit
-img: img/mrfox.jpg
+img: /img/mrfox.jpg
 lang: en
 ---
 
