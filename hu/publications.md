@@ -30,7 +30,7 @@ Fábián, Z. (2012). Pártrendszer és a társadalmi kohézió jelzőszámai Mag
 
 Enyedi, Z., Fábián, Z., & Tardos, R. (2014). Pártok és szavazók, 2002–2014 (T. Kolosi & I. G. Tóth, eds.). Retrieved from http://www.tarki.hu/adatbank-h/kutjel/pdf/b344.pdf
 
-Fábián, Z., Gábos, A., Kopasz, M., Medgyesi, M., Szivós, P., & Tóth, I. G. (2014). Hungary: A country caught in its own trap. In B. Nolan, W. Salverda, D. Checchi, I. Marx, A. McKnight, I. G. Tóth, & H. van de Werfhorst (Eds.), Changing Inequalities and Societal Impacts in Rich Countries: Thirty Countries’ Experiences (pp. 322–345). Oxford: Oxford University Press.
+Fábián, Z., Gábos, A., Kopasz, M., Medgyesi, M., Szivós, P., & Tóth, I. G. (2014). [Hungary: A country caught in its own trap.](https://books.google.hu/books?id=9cXRAgAAQBAJ&lpg=PA322&ots=YVHWYxy_09&dq=Hungary%3A%20A%20country%20caught%20in%20its%20own%20trap.&pg=PA328#v=onepage&q=Hungary:%20A%20country%20caught%20in%20its%20own%20trap.&f=false) In B. Nolan, W. Salverda, D. Checchi, I. Marx, A. McKnight, I. G. Tóth, & H. van de Werfhorst (Eds.), Changing Inequalities and Societal Impacts in Rich Countries: Thirty Countries’ Experiences (pp. 322–345). Oxford: Oxford University Press.
 
 Fábián, Z., Matsaganis, M., Tóth, I. G., & Veliziotis, M. (2014). The legacy of the recession: values and societal issues (No. 7/2014). Retrieved from the [European Commission](http://ec.europa.eu/social/BlobServlet?docId=13869&langId=en)
 
