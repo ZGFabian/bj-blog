@@ -18,7 +18,7 @@ In R. Andorka, T. Kolosi, & G. Vukovich (Eds.), Társadalmi Riport 1994 (pp. 351
 
 Fábián, Z., Róbert, P., & Szivós, P. (1999). The social milieu of material-welfare status groups (T. Kolosi, Ed.). Social Report 1998, pp. 79–99. Budapest: TÁRKI.
 
-Fábián, Z., Kolosi, T., & Róbert, P. (2000). Fogyasztás és életstílus. In T. Kolosi, I. G. Tóth, & G. Vukovich (Eds.), Társadalmi riport 2000 (pp. 225–259). Retrieved from [TÁRKI](http://old.tarki.hu/adatbank-h/kutjel/pdf/a850.pdf) [Download here.](https://drive.google.com/file/d/1m15xANfIOyNBfC96WcDUzyn-GObsKa_N/view?usp=sharing)
+Fábián, Z., Kolosi, T., & Róbert, P. (2000). Fogyasztás és életstílus. In T. Kolosi, I. G. Tóth, & G. Vukovich (Eds.), Társadalmi riport 2000 (pp. 225–259). Retrieved from [TÁRKI](http://old.tarki.hu/adatbank-h/kutjel/pdf/a850.pdf) [Download here.]()
 
 Fábián, Z., Kolosi, T., & Róbert, P. (2000). Fogyasztási csoportok (No. 20). Retrieved from [TÁRKI](http://old.tarki.hu/adatbank-h/kutjel/pdf/a405.pdf)
 
