@@ -17,3 +17,5 @@ ASCII dolgok [ןnápןéd éןǝɟǝן ןǝɾɾǝℲ](https://yaytext.com/upside
 
 80/20 szabály/rule - Einstein window / Flow - Protect your window LIvideo
 
+Banális dolgok: tartsd egyenesen magad! Igyál sok vizet! 
+
