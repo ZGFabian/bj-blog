@@ -15,4 +15,5 @@ ASCII dolgok [ןnápןéd éןǝɟǝן ןǝɾɾǝℲ](https://yaytext.com/upside
 
 [Context Free](https://www.contextfreeart.org/) is a program that generates images from written instructions called a grammar. 
 
+80/20 szabály/rule - Einstein window / Flow - Protect your window LIvideo
 
