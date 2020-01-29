@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The great devide (part 1)
+title: The great divide (part 1/1)
 subtitle: Interview with Steve Bannon 
 image: /img/deep_canyon_v04.jpg
 categories: [history]
@@ -9,6 +9,8 @@ lang: en
 ---
 
 [Steve Bannon](https://youtu.be/pm5xxlajTW0) interview transcript from YouTube. Some highlights and interesting parts emphasized.
+
+
 
 <div class="box-note">
 

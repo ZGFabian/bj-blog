@@ -9,6 +9,7 @@ lang: en
 ---
 
 [Steve Bannon](https://youtu.be/pm5xxlajTW0) interview transcript from YouTube. Some highlights and interesting parts emphasized.
+The interview was conducted on March 17, 2019 during the making of the two-part January 2020 documentary series “America's Great Divide: From Obama to Trump." as part of Transparency Project of [PBS|Frontline](https://www.pbs.org/wgbh/frontline/). 
 
 <div class="box-note">
 
