@@ -26,6 +26,7 @@ navbar-links:
     - Posts: /en/english-only/
   Hu:
     - Bemutatkozás: "/hu/aboutme"
+    - Publikációk:"/hu/publications"
     - Címkék_tags: "/tags/"
     - Kategóriák_categories: /categories/
     - Adatvizualizáció: "" 
