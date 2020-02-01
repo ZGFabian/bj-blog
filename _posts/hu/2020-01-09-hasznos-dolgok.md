@@ -17,5 +17,10 @@ ASCII dolgok [ןnápןéd éןǝɟǝן ןǝɾɾǝℲ](https://yaytext.com/upside
 
 80/20 szabály/rule - Einstein window / Flow - Protect your window LIvideo
 
-Banális dolgok: tartsd egyenesen magad! Igyál sok vizet! 
+Banális dolgok: tartsd egyenesen magad! Igyál sok vizet! (vö kanadai pszich.)
+
+Csiszolatlan gyémánt film
+
+Muhammad Ali 2001-ről: Ha ugyanolyan vagy 50 évesen...
+ 
 
