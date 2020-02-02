@@ -8,13 +8,11 @@ image: /img/20-02-02/ranger-logo.png
 lang: en
 ---
 
-
-
-[Ranger](https://github.com/ranger/ranger), is a console based file browser.
+[Ranger](https://github.com/ranger/ranger), is a console based file manager (fm). It has a special three-column view features (that is called [Miller columns](#)), but also able to behave as a dual-pane fm, like Midnight commander, total commander, etc. 
 
 When you hit <pre>?+k</pre> in ranger you will get the defined key bindings. Here comes mine, just for learning purposes for myself.
-
-Keybindings in `browser'
+<div>
+Keybindings in 'browser'
            Q quitall
            q quit
           ZZ quit
@@ -297,7 +295,6 @@ Keybindings in `browser'
           -s shell -f chmod u-s %s
           -t shell -f chmod u-t %s
     <delete> shell trash-put %s
-
 Keybindings in `console'
        <c-i> eval fm.ui.console.tab()
      <s-tab> eval fm.ui.console.tab(-1)
@@ -333,7 +330,6 @@ Keybindings in `console'
        <c-h> eval fm.ui.console.delete(-1)
 <backspace2> eval fm.ui.console.delete(-1)
 <allow_quantifiers> false
-
 Keybindings in `pager'
       <down> pager_move  down=1
         <up> pager_move  up=1
@@ -370,7 +366,6 @@ Keybindings in `pager'
            i pager_close
         <f3> pager_close
            E edit_file
-
 Keybindings in `taskview'
         <up> taskview_move up=1
       <down> taskview_move down=1
@@ -405,7 +400,7 @@ Keybindings in `taskview'
            Q taskview_close
            w taskview_close
        <c-c> taskview_close
-
+</div>
 
 
 Related post: 
