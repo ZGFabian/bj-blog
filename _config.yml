@@ -23,6 +23,7 @@ navbar-links:
   En: 
     - About me: "en/aboutme"
     - About the site: "en/about_site"
+    - Media-test: "en/media-test"
     - Posts: /en/english-only/
   Hu:
     - Bemutatkozás: "/hu/aboutme"
