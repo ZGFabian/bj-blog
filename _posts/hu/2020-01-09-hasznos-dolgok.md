@@ -17,10 +17,10 @@ ASCII dolgok [ןnápןéd éןǝɟǝן ןǝɾɾǝℲ](https://yaytext.com/upside
 
 80/20 szabály/rule - Einstein window / Flow - Protect your window LIvideo
 
-Banális dolgok: tartsd egyenesen magad! Igyál sok vizet! (vö kanadai pszich.)
+Banális dolgok: tartsd egyenesen magad! Igyál sok vizet! (vö kanadai pszich.) Mozogj like Linus T.
 
-Csiszolatlan gyémánt film
+Csiszolatlan gyémánt: film Adam Sandler-rel, aki egy brooklyni zsidó ékszerészt játszik. Warning: etióp fekete zsidók (sic!) may disturbe you.
 
 Muhammad Ali 2001-ről: Ha ugyanolyan vagy 50 évesen...
  
-
+Bropages: [http://bropages.org/](http://bropages.org/) - examples for CLI commands (try search for `man` -> `man ascii`, etc.)
