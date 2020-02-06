@@ -1,5 +1,15 @@
 <style>
 .lightbox {width: 100%; height: 100%; position: fixed; top: 0; left: 0; background: rgba(0,0,0,0.85); z-index: 9999999; line-height: 0; cursor: pointer;}
+/* following 2rules were added */
+img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
+img[src*="#thumbnail2"] {
+   width:150px;
+   height: auto;
+}
+
 .lightbox .img {
 	position: relative; 
 	top: 50%;
