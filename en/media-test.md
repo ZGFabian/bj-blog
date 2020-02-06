@@ -20,7 +20,7 @@ lang: en
 
 
 - Hello, this is a [yt video link](https://youtu.be/s0uawtiiNY4), created with lightbox.js. (Credit: [Jekyll Codex](https://jekyllcodex.org/without-plugins/)) Lightbox is included in `base.html` in `_layouts folder`.
-- Picture of a [SHEEPCOW](/img/fa_album/image1.jpg) & [blablabla](/img/blabla_av_white_bg.png) - Art by FaFa / Also lightbox.js and credit goes to [Jekyll Codex](https://jekyllcodex.org/without-plugins/).
+- Picture of a [SHEEPCOW](/img/fa_album/image1.jpg) & [blablabla](/img/blabla_av_white_bg.png) - Art by FaFa / Also lightbox.js and credit goes to [Jekyll Codex](https://jekyllcodex.org/without-plugins/). **Note the .jpg extension.**
 - This is going to be an image gallery. You should download `image-gallery.html` to your `_includes` folder, and follow the [instructions](https://jekyllcodex.org/without-plugin/image-gallery/). Image captions are derived from `filename` in `alt=""` tags.  Credits: FaFa / [Jekyll codex](https://jekyllcodex.org/without-plugins/) Wow!
 
 {% include image-gallery.html folder="/img/fa_album" %}

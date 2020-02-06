@@ -1,16 +1,22 @@
 ---
 layout: post
 title: "Cheatsheet for Ranger FM"
-subtitle: Key bindings of my current vanilla config
+subtitle: Keybindings of my current vanilla config
 categories: [Linux]
 tags: [Ranger FM]
 image: /img/20-02-02/ranger-logo.png
 lang: en
 ---
 
-[Ranger](https://github.com/ranger/ranger), is a console based file manager (fm). It has a special three-column view features (that is called [Miller columns](#)), but also able to behave as a dual-pane fm, like Midnight commander, total commander, etc. 
+[Ranger](https://github.com/ranger/ranger), is a console based file manager (fm) on Unix|Linux. It has a special three-column view features (that is called [Miller columns](#)), but it is also able to behave as a dual-pane fm, like Midnight commander (MC), total commander, etc. (Actually many keys work like MC does. It is really a great tool with many features that can be customized according to one's need. However, users who are not familiar with terminal commands and vim flavour editors, may find it difficult to learn Ranger's functioning. This is because a lot of keybindings and terms like "[yank](https://ell.stackexchange.com/questions/14632/why-does-yank-in-vim-mean-copy)" or "[pager](https://unix.stackexchange.com/questions/144016/what-is-a-pager)" have long history in computing, especially in Unix/Linux domains. 
 
-When you hit `?+k` in ranger you will get the defined key bindings. Here comes mine, just for learning purposes for myself.
+A notable feature of Ranger are: 
+ - image preview [demo](https://youtu.be/DJhDMxMgzC0) / [instrucion]()
+ - integration with fzf fuzzy searching tool. [instructions](https://github.com/gotbletu/shownotes/blob/master/ranger_file_locate_fzf.md) and [demo](https://youtu.be/C64LKCZFzME).
+
+When you hit `?+k` in ranger, you will get your predefined keybindings set in `~/.config/ranger/rc.conf` file. Here comes my recent config. The only thing I changed right after installing Ranger, was the `delete` and `F8` keys. It is now binded to `trash-put` command rather than `console delete` (that is rm command in a shell). In this way files that are deleted/removed with del key, can be restored from `~/.local/share/Trash` folder either manually or with `trash-restore` command. I got this idea from this [video by Gotbletu](https://www.youtube.com/channel/UCkf4VIqu3Acnfzuk3kRIFwA), who is one of the greatest evangelist for Ranger and CLI.
+
+ **Emphases** and notes (`#!`) were added by me. Note: `c` denotes `<Ctrl>` (Control key), so `<c - c>` reads: <Ctrl - c>.  
 
 <div>
 	<pre>
@@ -37,10 +43,10 @@ When you hit `?+k` in ranger you will get the defined key bindings. Here comes m
 	           @ console -p6 shell  %%s
 	           # console shell -p%space
 	           s console shell%space
-	           <b>r chain draw_possible_programs; console open_with%%space</b>
+	           <b>r chain draw_possible_programs; console open_with%%space #!app menu</b> 
 	           f console find%space
 	          cd console cd%space
-	          cw console rename%space
+	          <b>cw console rename%space</b> #!same as :rename 
 	          ct search_next order=tag
 	          cs search_next order=size
 	          ci search_next order=mimetype
@@ -67,14 +73,14 @@ When you hit `?+k` in ranger you will get the defined key bindings. Here comes m
 	     <space> mark_files toggle=True
 	           v mark_files all=True toggle=True
 	           V toggle_visual_mode
-	        <f1> help
+	        <b><f1> help
 	        <f2> rename_append
 	        <f3> display_file
 	        <f4> edit
 	        <f5> copy
 	        <f6> cut
 	        <f7> console mkdir%space
-	        <f8> console delete
+	        <f8> shell trash-put %s
 	       <f10> exit
 	        <up> move up=1
 	      <down> move down=1
@@ -83,7 +89,7 @@ When you hit `?+k` in ranger you will get the defined key bindings. Here comes m
 	      <home> move to=0
 	       <end> move to=-1
 	  <pagedown> move down=1   pages=True
-	    <pageup> move up=1     pages=True
+	    <pageup> move up=1     pages=True</b> #!mc-like bindings
 	       <c-j> move right=1
 	    <insert> console touch%space
 	           k move up=1
@@ -406,5 +412,5 @@ When you hit `?+k` in ranger you will get the defined key bindings. Here comes m
 </div>
 
 
-Related post: 
+Related application: [lf - file manager](https://github.com/gokcehan/lf)
 

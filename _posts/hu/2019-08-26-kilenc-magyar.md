@@ -7,9 +7,8 @@ tags: [Kati Marton]
 lang: hu
 ---
 
+Kati Marton könyve lebilincselően számol be a 19. és 20. század fordulóján Budapesten kialakult pezsgő szellemi életről, amely elindította karrier útjára kilenc honfitársunkat. Történetesen mind a kilencen zsidó származásúak voltak, de magyarságuk döntően befolyásolta életútjukat. Sokan közülük a természettudományok (fizika, matematika, kémia), míg mások az irodalom, filozófia avagy a vizuális művészetek (fotográfia, film) terén alkottak maradandót. Karrierjük a történelmi körülmények miatt nem Magyarországon teljesedett ki, hanem jellemzően a tengeren túlon, az Egyesült Államokban. Többen közülük úgy haltak meg, hogy sosem tértek vissza Magyarországra a 2. világháború után. 
 
-
-!! Kati Marton könyve lebilincselően számol be a 19. és 20. század fordulóján Budapesten kialakult pezsgő szellemi életről, amely elindította karrier útjára kilenc volt honfitársunkat. Történetesen mind a kilencen zsidó származásúak voltak, de magyar származásuk döntően befolyásolta karrierjüket. Sokan közülük a kemény tudományok (fizika, matematika, kémia) területén tették le a névjegyüket, míg mások az irodalom, filozófia avagy a vizuális művészetek (fotográfia, film) terén alkottak maradandót. Karrierjük - főként származásuk okán - nem Magyarországon teljesedett ki, hanem jellemzően a tengeren túlon, az Egyesült Államokban. Sokan úgy haltak meg, hogy sosem tértek vissza Magyarországra. Mára talán elmondható, hogy itthon is konszenzus alakult ki abban, hogy teljesítményük alapvetően pozitívan járult hozzá a huszadik századi történelem menetéhez, illetve maradandót alkottak saját területükön.   
 A szerző, Kati Marton élete is regényesen alakult, amint az nyomon követhető életrajzi könyvéből. 1956 után került Amerikába és jutott be újságíróként a washingthoni demokrata elitbe harmadik férje, Richard Holbrooke oldalán. Talán ez a könyve az, amely a legnagyobb visszhangot váltotta ki itthon. 
 
 [Szilárd Leó](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Leo_Szilard.jpg/225px-Leo_Szilard.jpg) [Teller Ede](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/EdwardTeller1958_fewer_smudges.jpg/200px-EdwardTeller1958_fewer_smudges.jpg)
@@ -26,7 +25,4 @@ A szerző, Kati Marton élete is regényesen alakult, amint az nyomon követhet�
 - Korda Sándor (Alexander Korda): 
 - Kertész Mihály (Michael Curtiz):
 
-
-Kertész: Casablanca
-
-Ezek közül voltak olyanok, akiket Mars-lakóknak hívtak. De nem mindegyikőjükről emlékezik meg a könyv. Közülük azokat, akik 
+[To be continued with Mars-lakók]
