@@ -1,9 +1,13 @@
 ---
 layout: null
 ---
-/* --- Syntax highligting --- */
-/* --- @import url("pygment_highlights.css"); --- */
-@import url("monokai.css");
+/* --- Syntax highligting options --- */
+/* --- @import url("pygment_highlights.css"); ---*/
+/* --- @import url("solarized_dark.css"); ---*/
+/* --- @import url("solarized.css"); ---*/
+/* --- @import url("monokai_dark.css"); ---*/
+/* --- @import url("monokai.css"); ---*/
+@import url("thankful_eyes.css");
 
 /* --- General --- */
 

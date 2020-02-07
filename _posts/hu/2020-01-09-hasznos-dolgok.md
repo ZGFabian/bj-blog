@@ -62,5 +62,6 @@ ___
  - Gist as script: <script src="https://gist.github.com/parkr/c08ee0f2726fd0e3909d.js"> </script> Also available as a GH plugin.
  - [Mundana](https://jekyll-themes.com/mundana/) is a minimal, bootstrap, typography jekyll theme. 
  - How to [Style Images With Markdown](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
+ - [Rouge Theme Preview Page](https://spsarolkar.github.io/rouge-theme-preview/)
  - How to add Bootstrap 4 to Jekyll by [Marcelo Canina](https://github.com/marcanuy)
-<script id="asciicast-198975" src="https://asciinema.org/a/198975.js" async></script>
+<script id="asciicast-198975" src="https://asciinema.org/a/198975.js" async data-theme="solarized-dark"></script>

@@ -172,9 +172,9 @@ paginate: 5
 kramdown:
   input: GFM
   syntax_highlighter_opts:
-      #default_lang: html
+      default_lang: html
       guess_lang: true
-#      css_class: 'monokai'
+      css_class: 'highlight'
       span:
         line_numbers: false
       block:

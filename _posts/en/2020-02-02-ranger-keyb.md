@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Cheatsheet for Ranger FM"
-subtitle: Keybindings of my current vanilla config
+subtitle: Some keybindings
 categories: [Linux]
-tags: [Ranger FM]
+tags: [Ranger FM, CLI]
 image: /img/20-02-02/ranger-logo.png
 lang: en
 ---
@@ -14,9 +14,9 @@ A notable feature of Ranger are:
  - image preview [demo](https://youtu.be/DJhDMxMgzC0) / [instrucion]()
  - integration with fzf fuzzy searching tool. [instructions](https://github.com/gotbletu/shownotes/blob/master/ranger_file_locate_fzf.md) and [demo](https://youtu.be/C64LKCZFzME).
 
-When you hit `?+k` in ranger, you will get your predefined keybindings set in `~/.config/ranger/rc.conf` file. Here comes my recent config. The only thing I changed right after installing Ranger, was the `delete` and `F8` keys. It is now binded to `trash-put` command rather than `console delete` (that is rm command in a shell). In this way files that are deleted/removed with del key, can be restored from `~/.local/share/Trash` folder either manually or with `trash-restore` command. I got this idea from this [video by Gotbletu](https://www.youtube.com/channel/UCkf4VIqu3Acnfzuk3kRIFwA), who is one of the greatest evangelist for Ranger and CLI.
+When you hit `?+k` in ranger, you will get your predefined keybindings set in `~/.config/ranger/rc.conf` file. The only thing I changed right after installing Ranger, was the `delete` and `F8` keys. It is now binded to `trash-put` command rather than `console delete` (that is rm command in a shell). In this way files that are deleted/removed with del key, can be restored from `~/.local/share/Trash` folder either manually or with `trash-restore` command. I got this idea from this [video by Gotbletu](https://www.youtube.com/channel/UCkf4VIqu3Acnfzuk3kRIFwA), who is one of the greatest evangelist for Ranger and CLI.
 
- **Emphases** and notes (`#!`) were added by me. Note: `c` denotes `<Ctrl>` (Control key), so `<c - c>` reads: <Ctrl - c>.  
+ Note: `c` denotes `<Ctrl>` (Control key), so `<c - c>` reads: <Ctrl - c>.  
 
 <div>
 	<pre>
@@ -25,24 +25,15 @@ When you hit `?+k` in ranger, you will get your predefined keybindings set in `~
 	           <b>q quit</b>
 	          ZZ quit
 	          ZQ quit
-	           R reload_cwd
-	           F set freeze_files!
-	       <c-r> reset
-	       <c-l> redraw_window
 	       <c-c> abort
 	    <escape> change_mode normal
 	           <b>~ set viewmode!</b>
 	           i display_file
 	           <b>? help</b>
-	           W display_log
 	           w taskview_open
 	           S shell $SHELL
 	           : console
 	           ; console
-	           ! console shell%space
-	           @ console -p6 shell  %%s
-	           # console shell -p%space
-	           s console shell%space
 	           <b>r chain draw_possible_programs; console open_with%%space #!app menu</b> 
 	           f console find%space
 	          cd console cd%space

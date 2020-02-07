@@ -8,7 +8,7 @@ image: /img/mrfox.jpg
 googlefonts: ["Fredoka One"]
 lang: en
 ---
-I am just reading Y. N. Harari’s bestseller book, _Sapiens: A Brief History Of Humankind_. I will use it’s text to demonstrate some basic capacities of R to analyse texts quantitatively. And also wanted to give a try to a [color scheme](https://github.com/karthik/wesanderson) named after the American filmmaker, [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson).
+I am reading Y. N. Harari’s bestseller book, _Sapiens: A Brief History Of Humankind_. I will use it’s text to show some basic capacities of R to analyse texts quantitatively. And also wanted to give a try to a [color scheme](https://github.com/karthik/wesanderson) named after the American filmmaker, [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson).
 
 <img src="{{ site.url }}/img/sap_wc.png" alt="Szófelhő">
 The book is downloadable from the the [Internet Archive](https://archive.org/details/sapiensabriefhistoryofhumankindyuvalnoahharari) in several formats. I got it in EPUB for my Calibre e-book collection then converted to plain text in Calibre. 
@@ -105,6 +105,6 @@ dev.off()
 {: style="text-align: center;"}
 ## (Almost) Happy End 
 
-<h1 style="font-family:Fredoka One;">Wait! What about the Fantastic Mr. Fox, the guy from `wes_palette`?</h1>
+<h1 style="font-family:Oswald;">Wait! What about the Fantastic Mr. Fox, the guy from `wes_palette`?</h1>
 Click [here](https://youtu.be/K_BzxFkkImI?t=6) to meet him.
 [![](https://raw.githubusercontent.com/karthik/wesanderson/master/figure/fantasticfox-1.png)](https://youtu.be/K_BzxFkkImI?t=6)

@@ -15,8 +15,8 @@ lang: en
 
 ![gif with animation](/img/20-01-09/forkit.gif)
 
-- A self-generated (css-styled) thumbnail image linked to the original picture displajed with via lightbox.js:
-[![SHEEPCOW](/img/fa_album/image1.jpg#thumbnail "sheep cow alias Busó #thumbnail")](/img/fa_album/image1.jpg)
+- A self-generated (css-styled) thumbnail image linked to the original picture that is displayed via lightbox.js:
+[![Click to view large image](/img/fa_album/image1.jpg#thumbnail "sheep cow alias Busó #thumbnail")](/img/fa_album/image1.jpg)
 [![SHEEPCOW](/img/fa_album/image1.jpg#thumbnail2 "sheep cow alias Busó #thumbnail2")](/img/fa_album/image1.jpg)
 [![blabla](/img/blabla_av_white_bg.png#thumbnail2 "blablabla ...")](/img/blabla_av_white_bg.png)
 
@@ -40,6 +40,9 @@ Animated WebP:
    <img src="//images.weserv.nl/?url=images.weserv.nl/banana.webp&h=300&output=gif&n=-1"> 
 </details>
 
+	<img align="right" width="200" height="183" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">
+
+<img align="right" width="200" height="183" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">
 
 - This is going to be an image gallery. You should download `image-gallery.html` to your `_includes` folder, and follow the [instructions](https://jekyllcodex.org/without-plugin/image-gallery/). Image captions are derived from `filename` in `alt=""` tags.  Credits: FaFa / [Jekyll codex](https://jekyllcodex.org/without-plugins/) Wow!
 
