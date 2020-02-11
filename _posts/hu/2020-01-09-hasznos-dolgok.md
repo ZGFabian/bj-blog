@@ -26,6 +26,7 @@ ___
 # Language tools
 
 [![WordHippo](/img/20-01-09/wordhippo.jpg "Thesaurus and word tools")](https://www.wordhippo.com/)
+[![online Hemingway editor](/img/20-01-09/hemingway-editor.jpg "Grammar and style checker")](http://www.hemingwayapp.com/)
 
 ## Programming 
  - Bropages: [http://bropages.org/](http://bropages.org/) - examples for CLI commands (try search for `man` -> `man ascii`, etc.)
@@ -42,15 +43,17 @@ ___
  <div class="alert alert-dark" role="alert">
   This is a **dark** alert with <a href="https://getbootstrap.com/docs/4.0/components/alerts/" class="alert-link">an example link to bootstrap framework 4.0</a>. Give it a click if you like.
 </div>
-<div class="alert alert-info" role="alert">
+<div class="alert alert-info" role="alert"><i class="fa fa-exclamation-circle"></i>
   This is a **info** alert with <a href="https://getbootstrap.com/docs/4.0/components/alerts/" class="alert-link">an example link</a>. Give it a click if you like.
 </div>
  
+ - Material Design for Bootstrap (https://mdbootstrap.com/)
  - Is [LBRY](https://youtu.be/Zf4ap52dJVI) a Viable Alternative to YouTube? ???
  - VIM (és nem súrolószer): Advocate no. 1.: [The Vim Tutorial - Part One - Basic Commands](https://youtu.be/ER5JYFKkYDg)
  - [![VIM adventures](/img/20-01-09/vim_adventures.jpg#thumbnail "go to play VIM adventures")](https://vim-adventures.com/) VIM Adventures is an online game based on VIM's keyboard shortcuts (commands, motions and operators). It's the "Zelda meets text editing" game. It's a puzzle game for practicing and memorizing VIM commands (good old VI is also covered, of course). It's an easy way to learn VIM without a steep learning curve.
-
-
+ - [Configuring URxvt to Make It Usable and Less Ugly](https://addy-dclxvi.github.io/post/configuring-urxvt/)
+ - [How to Quickly Resize, Convert & Modify Images from the Linux Terminal](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/)
+ - [Some bashrc recommendations](https://youtu.be/_UrDsbs0-OE)
  
 ### Jekyll-related stuffs:
 
@@ -63,5 +66,7 @@ ___
  - [Mundana](https://jekyll-themes.com/mundana/) is a minimal, bootstrap, typography jekyll theme. 
  - How to [Style Images With Markdown](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
  - [Rouge Theme Preview Page](https://spsarolkar.github.io/rouge-theme-preview/)
+ - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+ - [Bootstrap demos and docs: cards](https://mdbootstrap.com/docs/jquery/components/cards/)
  - How to add Bootstrap 4 to Jekyll by [Marcelo Canina](https://github.com/marcanuy)
 <script id="asciicast-198975" src="https://asciinema.org/a/198975.js" async data-theme="solarized-dark"></script>

@@ -36,3 +36,13 @@ subtitle: instead of Hollywood
     </div>
 {%- endfor -%}
 </div>
+
+<div id="full-tags-list">
+{%- for cat in cat_list -%}
+    <h2 id="{{- cat -}}" class="linked-section">
+        <i class="fa fa-folder-open-o" aria-hidden="true"></i>
+        &nbsp;{{- cat -}}&nbsp;({{site.categories[cat].size}})
+    </h2>
+{%- endfor -%}
+</div>
+

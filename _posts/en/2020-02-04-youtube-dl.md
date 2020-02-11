@@ -47,8 +47,15 @@ The result will be a WebVTT (with .vtt extension) text file, that can be process
 
 	-g, --get-url Simulate, quiet but print URL
 &
+cut out 10 seconds from the start at (15.00 second)
 
-ffmpeg -ss 00:00:15.00 -i "OUTPUT-OF-FIRST URL" -t 00:00:10.00 -c copy out.mp4
+	ffmpeg -ss 00:00:15.00 -i "OUTPUT-OF-FIRST URL" -t 00:00:10.00 -c copy out.mp4
+
+superuser- [Cutting Video](https://blog.superuser.com/2012/02/24/ffmpeg-the-ultimate-video-and-audio-manipulation-tool/) guide says:
+
+"The time values can either be seconds or in the form of HH:MM:SS.ms. So, you could also cut one minute, ten seconds and 500 milliseconds:"
+	
+	ffmpeg -ss 00:01:30 -i input.mov -c:v copy -c:a copy -t 00:01:30.500 output.mov 
 
 ## Posts in "tools" category:
 
