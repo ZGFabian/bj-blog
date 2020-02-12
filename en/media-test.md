@@ -2,11 +2,11 @@
 layout: page
 title: media test page
 subtitle: samples
-tags: [video, image, image gallery, google fonts]
+tags: [video, image, image gallery, google fonts, todo]
 lang: en
 ---
 
-[Beautiful Jekyll structure goes about here.] It uses the following js libraries.
+[Beautiful Jekyll structure goes about here.](#todo) It uses the following js libraries.
 
 
 - Hello, this is a [yt video link](https://youtu.be/s0uawtiiNY4), created with lightbox.js. (Credit: [Jekyll Codex](https://jekyllcodex.org/without-plugins/)) Lightbox is included in `base.html` in `_layouts folder`. It "is a solution that loads your image links, your Youtube links and your Vimeo links automatically in a minimalistic and responsive pseudo window/overlay. No adjustment to your links is required, just follow the installation instructions below." [Source.](https://jekyllcodex.org/without-plugin/lightbox/)
@@ -55,3 +55,7 @@ Animated WebP:
 
 
 <img align="left" width="400" height="200" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">
+
+# Uno Coub:
+<iframe src="//coub.com/embed/1ynjm4?muted=false&autostart=false&originalSize=false&startWithHD=false" allowfullscreen frameborder="0" width="480" height="270" allow="autoplay"></iframe>
+
