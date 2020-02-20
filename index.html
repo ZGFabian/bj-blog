@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Talált dolgok
-subtitle: Adatelemzés, vizualizáció és blablabla... 
+title: Talált dolgok | Odds and ends
+subtitle: Nem loptam 
 use-site-title: true
 ---
 <div class="tags-expo">
   <div class="tags-expo-list">
     {% for tag in site.tags %}
-    <a href="/categories/" class="post-tag">{{ tag[0] }}</a>
+    <a href="/tags/" class="post-tag">{{ tag[0] }}</a>
     {% endfor %}
   </div>
 </div>
@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum voluptate recusa
     </a>
 
     <p class="post-meta">
-      Közzétéve: {{ post.date | date: "%Y-%m-%d" }}
+      Közzétéve/posted on: {{ post.date | date: "%Y-%m-%d" }}
     </p>
 
     <div class="post-entry-container">
@@ -69,12 +69,12 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum voluptate recusa
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Újabb bejegyzések</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Previous/Előző</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Régebbiek &rarr;</a>
+    <a href="{{ paginator.next_page_path | relative_url }}">Next/Kérem a következőt &rarr;</a>
   </li>
   {% endif %}
 </ul>

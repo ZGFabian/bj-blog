@@ -22,6 +22,9 @@ ___
 ### Command line
  - figlet
  - [youtube-dl](/2020-02-04-youtube-dl)
+ - curl wttr.in weather in terminal
+ - [mutt cheat sheet](http://sheet.shiar.nl/mutt)
+
 
 # Language tools
 

@@ -127,6 +127,10 @@ You can add notification, warning and error boxes like this:
 <div class="alert alert-info" role="alert"><i class="fa fa-exclamation-circle"></i>
   This is a **info** alert with <a href="https://www.w3schools.com/icons/bootstrap_icons_glyphicons.asp" class="alert-link">an example link</a>.
 </div>
+
+ - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+ - :flushed: :trollface: I give jemoji plugin two :+1:! 
+
 <div class="container">
   <h2>Search Glyph</h2>
   <p>Search icon: <span class="glyphicon glyphicon-search"></span></p>    

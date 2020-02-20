@@ -29,4 +29,5 @@ Note: `c` denotes <kbd>Ctrl</kbd>, so `<c - c>` reads: <kbd>Ctrl+c</kbd>.
 
 Related applications: 
  - [lf - file manager](https://github.com/gokcehan/lf)
+ - [nnn](https://github.com/jarun/nnn#features) file manager, available from repos
 
