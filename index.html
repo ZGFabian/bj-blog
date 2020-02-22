@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Talált dolgok | Odds and ends
-subtitle: Nem loptam 
+title: Talált dolgok
+subtitle: Odds and ends
 use-site-title: true
 ---
+<!--
 <div class="tags-expo">
   <div class="tags-expo-list">
     {% for tag in site.tags %}
@@ -11,8 +12,11 @@ use-site-title: true
     {% endfor %}
   </div>
 </div>
+-->
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum voluptate recusandae animi commodi, praesentium modi distinctio sapiente similique voluptas natus dolorem, deleniti neque sint delectus alias enim voluptates aliquam? Ex! 
+Üdvözöllek! A bejegyzések általában a Linux környezettel, adatelemzéssel vagy egyéb dolgokkal kapcsolatosak. Bővebben rólam. 
+
+Welcome to my blog. Read posts about life in Linux, data analysis or other topics. More about me.
 
 <div class="posts-list">
   {% for post in paginator.posts %}
@@ -43,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum voluptate recusa
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | relative_url }}" class="post-read-more">[Tovább]</a>
+          <a href="{{ post.url | relative_url }}" class="post-read-more">[Tovább/More]</a>
         {% endif %}
       </div>
     </div>

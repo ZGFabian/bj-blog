@@ -2,7 +2,7 @@
 layout: post
 title: "Barchart race with Flourish"
 subtitle: "Eurostat data: Passanger cars per 1000 inhabitants"
-categories: [data visualization]
+categories: [data]
 tags: [Flourish, barchart race]
 lang: en
 ---

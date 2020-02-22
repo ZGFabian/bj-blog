@@ -2,8 +2,8 @@
 layout: post
 title: Kilenc ​magyar, aki világgá ment és ...
 subtitle: megváltoztatta a világot
-categories: [történelem, könyv]
-tags: [Kati Marton]
+categories: [other]
+tags: [Kati Marton, könyv, Nobel-díj]
 lang: hu
 ---
 

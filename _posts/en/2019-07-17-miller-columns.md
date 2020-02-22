@@ -20,10 +20,4 @@ A recent example of using Miller columns is [ranger](https://github.com/ranger/r
 ## Source of images: 
 - Post cover: ![Wikimedia](https://commons.wikimedia.org/wiki/File:Three_in_a_row_-_National_Capitol_Columns.jpg) 
 - Ranger screenshot: [Ranger](https://ranger.github.io/)
-- [unsplash images](#todo) (https://unsplash.com/s/photos/columns)
-
-<div class="post-image">
-  <a href="/2019-07-17-miller-columns/">
-    <img src="/img/three_columns.jpg">
-  </a>
-</div>
+- [unsplash images](https://unsplash.com/s/photos/columns)

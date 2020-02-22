@@ -6,7 +6,6 @@ permalink: /hu/publications/
 tags: [Publikáció]
 lang: hu
 ---
-
 # Válogatott publikációk
 
 Fábián, Z. (1992). Rendszer és identitás: ami változik és ami nem. Magyar Tudomány, (7), 832–844. [Megnyitás (pdf).](/pdf/pubs/F%C3%A1bi%C3%A1n%20-%201992%20-%20Rendszer%20%C3%A9s%20identit%C3%A1s%20ami%20v%C3%A1ltozik%20%C3%A9s%20ami%20nem.pdf) Kapcsolódó publikációk: [Erős 1991](/pdf/pubs/Er%C5%91s%20-%201991%20-%20Rendszerv%C3%A1lt%C3%A1s-identit%C3%A1sv%C3%A1lt%C3%A1s.pdf); [Szummer 1992](/pdf/pubs/Szummer%20-%201992%20-%20Identit%C3%A1sv%C3%A1lt%C3%A1s%20vagy%20identit%C3%A1spatol%C3%B3gia%20N%C3%A9h%C3%A1ny%20%C3%A9szrev%C3%A9tel%20Er%C5%91s%20Ferenc%20%C3%ADr%C3%A1s%C3%A1hoz.pdf); [Erős 1992](/pdf/pubs/Er%C5%91s%20-%201992%20-%20A%20z%C3%B6lds%C3%A9gboltos%20%C3%A9s%20a%20hatalom%20-%20avagy%20ism%C3%A9t%20az%20identit%C3%A1sv%C3%A1lt%C3%A1sr%C3%B3l.pdf).
@@ -21,11 +20,13 @@ Fábián, Z., Róbert, P., & Szivós, P. (1999). The social milieu of material-w
 
 Fábián, Z., Kolosi, T., & Róbert, P. (2000). Fogyasztás és életstílus. In T. Kolosi, I. G. Tóth, & G. Vukovich (Eds.), Társadalmi riport 2000 (pp. 225–259). Budapest [TÁRKI.](http://old.tarki.hu/adatbank-h/kutjel/pdf/a850.pdf) / [Megnyitás (pdf).](/pdf/pubs/Fábián, Kolosi, Róbert - 2000 - Fogyasztás és életstílus.pdf)
 
-Fábián, Z., Kolosi, T., & Róbert, P. (2000). Fogyasztási csoportok. TÁRKI Társadalompolitikai tanulmányok (No. 20).  Budapest: [TÁRKI.](http://old.tarki.hu/adatbank-h/kutjel/pdf/a405.pdf). / [Megnyitás (pdf).](/pdf/pubs/Fábián, Kolosi, Róbert - 2000 - Fogyasztási csoportok.pdf) 
+Fábián, Z., Kolosi, T., & Róbert, P. (2000). Fogyasztási csoportok. TÁRKI Társadalompolitikai tanulmányok (No. 20).  Budapest: [TÁRKI.](http://old.tarki.hu/adatbank-h/kutjel/pdf/a405.pdf) / [Megnyitás (pdf).](/pdf/pubs/Fábián, Kolosi, Róbert - 2000 - Fogyasztási csoportok.pdf) 
 
 Kolosi, T., Róbert, P., & Fábián, Z. (2000). A jövedelmek szerkezete. In P. Szivós & I. G. Tóth (Eds.), Növekedés alulnézetben. TÁRKI Monitor jelentések. (pp. 7-15) Budapest: [TÁRKI.](http://old.tarki.hu/adatbank-h/kutjel/pdf/a316.pdf). / [Megnyitás (pdf)](/pdf/pubs/Kolosi, Róbert, Fábián - 2000 - A jövedelmek szerkezete.pdf) 
 
 Csepeli, G., Fábián, Z., & Sik, E. (2001). Determinants of Denial and Acceptance of Refugees in Hungary. In K. Phalet & A. Örkény (Szerk.), Ethnic minorities and inter-ethnic relations in context : A Dutch-Hungarian comparison (o. 85–96). Sydney: Ashgate.
+
+Angelusz, R., Fábián, Z., & Tardos, R. (2005). Digital inequality and types of info-communication tool use. In T. Kolosi, G. Vukovich, & I. G. Tóth (Eds.), Social Report 2004 (pp. 299–320). Budapest: [TÁRKI](https://tarki.hu/sites/default/files/adatbank-h/kutjel/pdf/a735.pdf). [Open (pdf)](/pdf/pubs/Angelusz%2C%20F%C3%A1bi%C3%A1n%2C%20Tardos%20-%202005%20-%20Digital%20inequality%20and%20types%20of%20info-communication%20tool%20use%282%29.pdf)
 
 Fábián, Z. (2005). Törésvonalak és a politikai ideológiai azonosulás szerepe a pártszimpátiák magyarázatában. In R. Angelusz & R. Tardos (Eds.), Törések, hálók, hidak. Választói magatartás és politikai tagolódás (pp. 207–242). Budapest: Demokrácia Kutatások Magyar Központja Alapítvány. [Megnyitás (pdf)](/pdf/pubs/F%C3%A1bi%C3%A1n%20-%202005%20-%20T%C3%B6r%C3%A9svonalak%20%C3%A9s%20a%20politikai%20ideol%C3%B3giai%20azonosul%C3%A1s%20szerepe%20a%20p%C3%A1rtszimp%C3%A1ti%C3%A1k%20magyar%C3%A1zat%C3%A1ban.pdf)
 

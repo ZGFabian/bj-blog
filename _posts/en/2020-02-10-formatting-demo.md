@@ -4,7 +4,9 @@ title: Formating demo
 subtitle: Styling pages using markdown, html and liquid formatting tags
 # gh-repo: daattali/beautiful-jekyll
 # gh-badge: [star, fork, follow]
-tags: [markdown, html, css, liquid, todo]
+image: /img/20-02-10-formatting/markdown_small.png
+categories: [Linux]
+tags: [markdown, html, css, liquid]
 # comments: true
 lang: en
 common-js: "https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"
@@ -51,7 +53,7 @@ Not bad, but you may want to pretty raw format:
 
 
 <div class="alert alert-success">
-  <i class="fa-lightbulb"></i> <strong>Tip:</strong> Creating tables in markdown can be a pain without advanced an editor like Sublime Text, Vim or Emacs. In such situations one can try the <a href="https://www.tablesgenerator.com/markdown_tables">Markdown Tables Generator</a>. I am using [Table Editor plugin](https://github.com/SublimeText-Markdown/TableEditor) with Sublime. 
+  <i class="fa-lightbulb"></i> <strong>Tip:</strong> Creating tables in markdown can be a pain without advanced an editor like Sublime Text, Vim or Emacs. In such situations one can try the <a href="https://www.tablesgenerator.com/markdown_tables">Markdown Tables Generator</a>. I am currently using <a href="https://github.com/SublimeText-Markdown/TableEditor">Table Editor plugin</a> to Sublime-text. 
 </div>
 
 {: .box-note}

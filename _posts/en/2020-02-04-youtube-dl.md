@@ -2,7 +2,7 @@
 layout: post
 title: youtube-dl 
 subtitle: A CLI tool to download videos and subtitles from the web
-categories: [tools]
+categories: [Linux]
 tags: [CLI, ascii, subtitle, youtube-dl]
 lang: en
 ---
@@ -57,9 +57,9 @@ superuser- [Cutting Video](https://blog.superuser.com/2012/02/24/ffmpeg-the-ulti
 	
 	ffmpeg -ss 00:01:30 -i input.mov -c:v copy -c:a copy -t 00:01:30.500 output.mov 
 
-## Posts in "tools" category:
+## Posts in "Linux" category:
 
-{% for post in site.categories.tools %}
+{% for post in site.categories.Linux %}
   <ul>
         {% if post.lang == 'en' %}
           <li>

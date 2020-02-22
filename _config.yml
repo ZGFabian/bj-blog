@@ -23,15 +23,17 @@ navbar-links:
   En: 
     - About me: "en/aboutme"
     - Publications: "/en/publications"
-    - About the site: "en/about_site"
-    - Media-test: "en/media-test"
     - Posts: /en/english-only/
+    - Data: /en/english-only-data/
+    - Linux: /en/english-only-linux/
+    - Odds and ends: /en/english-only-other/
   Hu:
     - Bemutatkozás: "/hu/aboutme"
     - Publikációk: "/hu/publications"
-    - Címkék_tags: "/tags/"
-    - Kategóriák_categories: /categories/
-    - Adatvizualizáció: "" 
+    - Bejegyzések: /hu/hu-only/
+    - Adatok: /hu/hu-only-data/
+    - Linux: /hu/hu-only-linux/
+    - Limlom: /hu/hu-only-other/
   Továbbiak:
     - Jekyll cheats: "https://devhints.io/jekyll"
     - Beautiful Jekyll theme: "http://deanattali.com/beautiful-jekyll/"

@@ -3,8 +3,8 @@ layout: post
 title: Movable feast
 subtitle: A Hemingway book
 image: /img/20-01-31/MoveableFeast.jpg
-categories: [Book]
-tags: [Hemingway]
+categories: [Other]
+tags: [book, Hemingway]
 lang: en
 ---
 

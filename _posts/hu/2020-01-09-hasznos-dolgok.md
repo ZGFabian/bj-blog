@@ -2,8 +2,8 @@
 layout: post
 title: Hasznos dolgok 
 subtitle: és kevésbé hasznosak to solve popular problems
-categories: [tools]
-tags: [ascii, programming]
+categories: [other, Linux]
+tags: [ascii, srt files, CLI, blog]
 lang: hu
 ---
 
@@ -16,8 +16,6 @@ lang: hu
  - Cowsay - [ASCII cow says things](https://textart.io/cowsay#)
  - [textart.io](https://textart.io/)
  - [Do Leonardo](https://www.mos.org/leonardo/activities/mirror-writing) - Leonardo's Mirror writing ![Self-portrait](https://upload.wikimedia.org/wikipedia/commons/b/ba/Leonardo_self.jpg#thumbnail2)
-
-___
 
 ### Command line
  - figlet
