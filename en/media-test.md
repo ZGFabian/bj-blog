@@ -48,6 +48,8 @@ Animated WebP:
 
 {% include image-gallery.html folder="/img/fa_album" %}
 
+Important: image-gallery works only with jpg.
+
 <details> 
   <summary>Q1: What is the best Language in the World?</summary>
    A1: <i>JavaScript</i> 

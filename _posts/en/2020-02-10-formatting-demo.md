@@ -124,7 +124,9 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box. `{: .box-error}`
 
-## Icons
+## Icons & emojis ☯ ⚡
+
+[UTF-8 symbols](https://www.w3schools.com/charsets/ref_utf_symbols.asp)
 
 <div class="alert alert-info" role="alert"><i class="fa fa-exclamation-circle"></i>
   This is a **info** alert with <a href="https://www.w3schools.com/icons/bootstrap_icons_glyphicons.asp" class="alert-link">an example link</a>.
