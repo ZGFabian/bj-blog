@@ -108,6 +108,11 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "zgfabian.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
+# Algolia search
+algolia:
+  application_id: 'TIAPAVFM82'
+
+
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag

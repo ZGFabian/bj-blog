@@ -25,7 +25,7 @@ When you hit <kbd>?+k</kbd> in ranger, you will get your predefined keybindings 
 
 | Keys              | Action                                                             |
 | ----------------- | ------------------------------------------------------------------ |
-| <kbd>Ctrl+n</kbd> | create new tab                                                     |
+| <kbd>Ctrl+n</kbd> or gn | create new tab                                                     |
 | <kbd>Tab</kbd>    | switch to next tab                                                 |
 | <kbd>Ctrl+w</kbd> | close current tab                                                  |
 | <kbd>~</kbd>      | switch `viewmode` by this you can switch to MC-like dual-pane mode |
@@ -41,6 +41,19 @@ When you hit <kbd>?+k</kbd> in ranger, you will get your predefined keybindings 
 | <kbd>Insert</kbd>: 	touch, ie. create new file |      |
 | <kbd>Enter</kbd>: 	open file with default app |      |
 | <kbd>r</kbd>: 		open file with custom app | |
+Space select file(s)
+
+
+### Folder / Directory
+
+F7 or :mkdir create directory
+dd cut directory
+yy copy directory
+pp paste directory
+
+### Navigation
+
+gh go home, change to ~ (home) folder
 
 
 ### Notes
