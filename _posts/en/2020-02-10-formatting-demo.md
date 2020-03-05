@@ -9,7 +9,9 @@ categories: [Linux]
 tags: [markdown, html, css, liquid]
 # comments: true
 lang: en
-common-js: "https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"
+# common-js: "https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"
+# js: /js/bootstrap.js
+ext-css: "//oldhungarian.eu/stylesheets/oldhungarian.css"
 ---
 ><img src="/img/20-02-10-formatting/markdown_small.png"
 >      alt="markdown_logo"
@@ -124,9 +126,16 @@ You can add notification, warning and error boxes like this:
 {: .box-error}
 **Error:** This is an error box. `{: .box-error}`
 
-## Icons & emojis ☯ ⚡
+## Symbols, icons & emojis ☯ ⚡
 
-[UTF-8 symbols](https://www.w3schools.com/charsets/ref_utf_symbols.asp)
+ - [Unicode character table]()
+ - Rovásírás - [Old Hungarian character table](https://unicode-table.com/en/blocks/old-hungarian/)
+ - [UTF-8 symbols](https://www.w3schools.com/charsets/ref_utf_symbols.asp)
+
+I will display a big Sun <span style='font-size:100px;'>&#9728;</span>
+And now something different: <span style='font-size:100px; font-family:Web_OldHungarian'>&#68739;</span>
+
+`<span style='font-size:100px;'>&#68739;</span>`
 
 <div class="alert alert-info" role="alert"><i class="fa fa-exclamation-circle"></i>
   This is a **info** alert with <a href="https://www.w3schools.com/icons/bootstrap_icons_glyphicons.asp" class="alert-link">an example link</a>.
