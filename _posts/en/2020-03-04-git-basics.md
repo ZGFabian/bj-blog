@@ -7,11 +7,8 @@ categories: [Linux]
 tags: [git, CLI]
 # comments: true
 lang: en
-# common-js: "https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"
-# js: /js/bootstrap.js
-# ext-css: "//oldhungarian.eu/stylesheets/oldhungarian.css"
 ---
-You clone a repository with `git clone <url>`. For example, if you want to clone the Git linkable library called libgit2, you can do so like this:
+You clone a repository with `git clone URL`. For example, if you want to clone the Git linkable library called libgit2, you can do so like this:
 
 	$ git clone URL/SUBDIR
 
