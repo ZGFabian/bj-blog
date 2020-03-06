@@ -14,6 +14,8 @@ Fábián, Z. (1994). A középrétegek: Adalékok a posztkommunista átmenet tá
 
 Fábián, Z. (1999). Tekintélyelvűség és előítéletek. Budapest: Új Mandátum Kiadó.
 
+Fábián, Z., & Fleck, Z. (1999). Authoritarianism, socio-demographic variables and socialisation in the explanation of prejudiced attitudes: antisemitism and anti-Gypsy attitude in Hungary. In Z. Enyedi & F. Erős (Szerk.), Authoritarianism and prejudice: Central European perspectives (o. 231–254). Budapest: Osiris Kiadó.
+
 Fábián, Z. (1999). The middle strata in transformation. In R. Andorka, T. Kolosi, & R. Rose (Eds.), A Society Transformed: Hungary in Time-Space Perspective (pp. 97–112). Budapest: Central European University Press.
 
 Fábián, Z., Róbert, P., & Szivós, P. (1999). The social milieu of material-welfare status groups (T. Kolosi, Ed.). Social Report 1998, pp. 79–99. Budapest: TÁRKI.
