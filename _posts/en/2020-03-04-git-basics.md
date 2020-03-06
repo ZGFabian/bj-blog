@@ -11,6 +11,20 @@ lang: en
 # js: /js/bootstrap.js
 # ext-css: "//oldhungarian.eu/stylesheets/oldhungarian.css"
 ---
+You clone a repository with `git clone <url>`. For example, if you want to clone the Git linkable library called libgit2, you can do so like this:
+
+	$ git clone URL/SUBDIR
+
+That creates a directory named SUBDIR, initializes a .git directory inside it, pulls down all the data for that repository, and checks out a working copy of the latest version. If you go into the new SUBDIR directory that was just created, you’ll see the project files in there, ready to be worked on or used.
+
+If you want to clone the repository into a directory named something other than SUBDIR, you can specify the new directory name as an additional argument:
+
+	$ git clone URL/SUBDIR MYSUBDIR
+
+That command does the same thing as the previous one, but the target directory is called MYSUBDIR.[^clone]
+
+
+
 ### git status 
 
 Example output:
@@ -58,4 +72,4 @@ If you have already staged the changes with git add, you can see what patch you 
 
 [^note1]: How to see changes to a file before commit? [SO](https://stackoverflow.com/questions/13787109/how-to-see-changes-to-a-file-before-commit/13787903)
 [^note2]: Difference between “git add -A” and “git add .” [SO](https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add)
-
+[^clone]: [(Almost)All about git clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
