@@ -26,7 +26,7 @@ That command does the same thing as the previous one, but the target directory i
 
 Example output:
 
-![git status](/img/20-03-04-git/git-status.png)
+<!--![git status](/img/20-03-04-git/git-status.png)-->
 
 To see all the diff in tracked files but are in unstaged state:
 

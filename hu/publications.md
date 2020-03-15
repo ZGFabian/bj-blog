@@ -32,6 +32,10 @@ Fábián, Z. (2005). Törésvonalak és a politikai ideológiai azonosulás szer
 
 Fábián, Z., & Tóth, I. G. (2008). [Lófogók és csirkekötők: pártpreferencia csoportok azonosulása és attitűdjei](/pdf/pubs/Fábián, Tóth - 2008 - Lófogók és csirkekötők pártpreferencia csoportok azonosulása és attitűdjei.pdf). In I. G. Tóth & P. Szivós (Szerk.), *Köz, teher, elosztás* (o. 203–219).  A teljes tanulmánykötet elérhető a [TÁRKI](http://www.tarki.hu/adatbank-h/kutjel/pdf/b193.pdf) oldalán és a [Magyar Elektronikus Könyvtárban](http://mek.oszk.hu/13400/13425/index.phtml) is. A tanulmány letölthető [innen](/pdf/pubs/Fábián, Tóth - 2008 - Lófogók és csirkekötők pártpreferencia csoportok azonosulása és attitűdjei.pdf). 
 
+Bernát, A., Fábián, Z., Galácz, A., & Ságvári, B. (2008). Esély és digitális írástudás: médiafogyasztási- és digitális eszközhasználati státusz-csoportok Magyarországon. Információs Társadalom, 8(2), 110–133. [Megnyitás (pdf)](/pdf/pubs/Bernát et al. - 2008 - Esély és digitális írástudás médiafogyasztási- és digitális eszközhasználati státusz-csoportok.pdf)
+
+Toš, N., Müller, K. H., Fábián, Z., Krejci, J., & Zielinski, M. (Szerk.). (2009). Three Roads to Comparative Research: Analytical, Visual and Morphological. Vienna: Edition Echoraum.
+
 Fábián, Z. (2012). Pártrendszer és a társadalmi kohézió jelzőszámai Magyarországon. In T. Kolosi & I. G. Tóth (Eds.), Társadalmi Riport 2012 (pp. 293–313). Budapest. [Megnyitás (pdf)](/pdf/pubs/Fábián - 2012 - Pártrendszer és a társadalmi kohézió jelzőszámai Magyarországon.pdf)
 
 Fábián, Z. (2013). Vonzások és választások: Politikai-ideológiai csoportok Magyarországon. In P. Szivós & I. G. Tóth (Szerk.), *Egyenlőtlenség és polarizálódás a magyar társadalomban*. A teljes tanulmánykötet elérhető a [TÁRKI](http://www.tarki.hu/hu/research/hm/monitor2012_teljes.pdf) oldalán és a [Magyar Elektronikus Könyvtárban](http://mek.oszk.hu/13400/13451/13451.pdf) is. A tanulmány letölthető [innen](/pdf/pubs/Fábián - 2013 - Vonzások és választások Politikai-ideológiai csoportok Magyarországon.pdf). 

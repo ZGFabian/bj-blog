@@ -32,7 +32,11 @@ Angelusz, R., Fábián, Z., & Tardos, R. (2005). Digital inequality and types of
 
 Fábián, Z. (2005). Törésvonalak és a politikai ideológiai azonosulás szerepe a pártszimpátiák magyarázatában. In R. Angelusz & R. Tardos (Eds.), Törések, hálók, hidak. Választói magatartás és politikai tagolódás (pp. 207–242). Budapest: Demokrácia Kutatások Magyar Központja Alapítvány. [Open (pdf)](/pdf/pubs/F%C3%A1bi%C3%A1n%20-%202005%20-%20T%C3%B6r%C3%A9svonalak%20%C3%A9s%20a%20politikai%20ideol%C3%B3giai%20azonosul%C3%A1s%20szerepe%20a%20p%C3%A1rtszimp%C3%A1ti%C3%A1k%20magyar%C3%A1zat%C3%A1ban.pdf)
 
+Bernát, A., Fábián, Z., Galácz, A., & Ságvári, B. (2008). Esély és digitális írástudás: médiafogyasztási- és digitális eszközhasználati státusz-csoportok Magyarországon. Információs Társadalom, 8(2), 110–133. [Open (pdf)](/pdf/pubs/Bernát et al. - 2008 - Esély és digitális írástudás médiafogyasztási- és digitális eszközhasználati státusz-csoportok.pdf)
+
 Fábián, Z., & Tóth, I. G. (2008). [Lófogók és csirkekötők: pártpreferencia csoportok azonosulása és attitűdjei](/pdf/pubs/Fábián, Tóth - 2008 - Lófogók és csirkekötők pártpreferencia csoportok azonosulása és attitűdjei.pdf). In I. G. Tóth & P. Szivós (Szerk.), *Köz, teher, elosztás* (o. 203–219).  The full-text publication is available at [TÁRKI](http://www.tarki.hu/adatbank-h/kutjel/pdf/b193.pdf) and at the [Hungarian Electroni Library](http://mek.oszk.hu/13400/13425/index.phtml). [Open (pdf)](/pdf/pubs/Fábián, Tóth - 2008 - Lófogók és csirkekötők pártpreferencia csoportok azonosulása és attitűdjei.pdf). 
+
+Toš, N., Müller, K. H., Fábián, Z., Krejci, J., & Zielinski, M. (Eds.). (2009). Three Roads to Comparative Research: Analytical, Visual and Morphological. Vienna: Edition Echoraum.
 
 Fábián, Z. (2012). Pártrendszer és a társadalmi kohézió jelzőszámai Magyarországon. In T. Kolosi & I. G. Tóth (Eds.), Társadalmi Riport 2012 (pp. 293–313). Budapest. [Open (pdf)](/pdf/pubs/Fábián - 2012 - Pártrendszer és a társadalmi kohézió jelzőszámai Magyarországon.pdf)
 
