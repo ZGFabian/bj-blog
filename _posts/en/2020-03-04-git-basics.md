@@ -22,7 +22,7 @@ That command does the same thing as the previous one, but the target directory i
 
 
 
-### git status 
+### git status
 
 Example output:
 
@@ -60,6 +60,19 @@ The important point about `git add .` is that it looks at the working tree and a
 If you have already staged the changes with git add, you can see what patch you have staged with[^note1]
 
     git diff --staged
+
+When you get:
+
+ 	! [remote rejected] master -> master (push declined due to email privacy restrictions)
+
+You should issue these command:
+
+		git config --global user.email "XXXX@users.noreply.github.com"
+		git rebase -i
+		git commit --amend --reset-author
+		git rebase --continue
+		git push
+
 
 ### Bonus
 
