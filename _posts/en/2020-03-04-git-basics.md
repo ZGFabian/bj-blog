@@ -63,7 +63,7 @@ If you have already staged the changes with git add, you can see what patch you 
 
 When you get:
 
- 	! [remote rejected] master -> master (push declined due to email privacy restrictions)
+ 		! [remote rejected] master -> master (push declined due to email privacy restrictions)
 
 You should issue these command:
 
