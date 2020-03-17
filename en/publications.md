@@ -28,7 +28,9 @@ Kolosi, T., Róbert, P., & Fábián, Z. (2000). A jövedelmek szerkezete. In P. 
 
 Csepeli, G., Fábián, Z., & Sik, E. (2001). Determinants of Denial and Acceptance of Refugees in Hungary. In K. Phalet & A. Örkény (Szerk.), Ethnic minorities and inter-ethnic relations in context : A Dutch-Hungarian comparison (o. 85–96). Sydney: Ashgate.
 
-Angelusz, R., Fábián, Z., & Tardos, R. (2005). Digital inequality and types of info-communication tool use. In T. Kolosi, G. Vukovich, & I. G. Tóth (Eds.), Social Report 2004 (pp. 299–320). Budapest: [TÁRKI](https://tarki.hu/sites/default/files/adatbank-h/kutjel/pdf/a735.pdf). [Open (pdf)](/pdf/pubs/Angelusz%2C%20F%C3%A1bi%C3%A1n%2C%20Tardos%20-%202005%20-%20Digital%20inequality%20and%20types%20of%20info-communication%20tool%20use%282%29.pdf)
+Angelusz, R., Fábián, Z., & Tardos, R. (2004). Digitális egyenlőtlenségek és az infokommunikációs eszközhasználat változásai. In T. Kolosi, I. G. Tóth, & G. Vukovich (Eds.), Társadalmi Riport 2004 (pp. 309–331). TÁRKI. [Open (pdf)](/pdf/pubs/Angelusz, Fábián, Tardos - 2004 - Digitális egyenlőtlenségek és az infokommunikációs eszközhasználat változásai.pdf)
+
+Angelusz, R., Fábián, Z., & Tardos, R. (2005). Digital inequality and types of info-communication tool use. In T. Kolosi, G. Vukovich, & I. G. Tóth (Eds.), Social Report 2004 (pp. 299–320). Budapest: [TÁRKI](https://tarki.hu/sites/default/files/adatbank-h/kutjel/pdf/a735.pdf). [Open (pdf)](/pdf/pubs/Angelusz, Fábián, Tardos - 2005 - Digital inequality and types of info-communication tool use.pdf)
 
 Fábián, Z. (2005). Törésvonalak és a politikai ideológiai azonosulás szerepe a pártszimpátiák magyarázatában. In R. Angelusz & R. Tardos (Eds.), Törések, hálók, hidak. Választói magatartás és politikai tagolódás (pp. 207–242). Budapest: Demokrácia Kutatások Magyar Központja Alapítvány. [Open (pdf)](/pdf/pubs/F%C3%A1bi%C3%A1n%20-%202005%20-%20T%C3%B6r%C3%A9svonalak%20%C3%A9s%20a%20politikai%20ideol%C3%B3giai%20azonosul%C3%A1s%20szerepe%20a%20p%C3%A1rtszimp%C3%A1ti%C3%A1k%20magyar%C3%A1zat%C3%A1ban.pdf)
 

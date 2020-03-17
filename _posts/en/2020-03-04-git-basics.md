@@ -67,7 +67,7 @@ When you get:
 
 You should issue these command:
 
-		git config --global user.email "XXXX@users.noreply.github.com"
+		git config --global user.email "XXXX@users.noreply.github.com" # https://github.com/settings/emails
 		git rebase -i
 		git commit --amend --reset-author
 		git rebase --continue
