@@ -8,7 +8,7 @@ tags: [git, CLI]
 # comments: true
 lang: en
 ---
-[xkdc](/img/20-03-04-git/xkdc.png)
+[xkdc](/img/20-03-04-git/xkcd.png)
 
 You clone a repository with `git clone URL`. For example, if you want to clone the Git linkable library called SUBDIR, you can do so like this:
 
