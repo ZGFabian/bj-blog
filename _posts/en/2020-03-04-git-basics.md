@@ -8,13 +8,15 @@ tags: [git, CLI]
 # comments: true
 lang: en
 ---
-You clone a repository with `git clone URL`. For example, if you want to clone the Git linkable library called libgit2, you can do so like this:
+[xkdc](/img/20-03-04-git/xkdc.png)
+
+You clone a repository with `git clone URL`. For example, if you want to clone the Git linkable library called SUBDIR, you can do so like this:
 
 	$ git clone URL/SUBDIR
 
 That creates a directory named SUBDIR, initializes a .git directory inside it, pulls down all the data for that repository, and checks out a working copy of the latest version. If you go into the new SUBDIR directory that was just created, you’ll see the project files in there, ready to be worked on or used.
 
-If you want to clone the repository into a directory named something other than SUBDIR, you can specify the new directory name as an additional argument:
+If you want to clone the repository into a directory named something like MYSUBDIR, you can specify the new directory name as an additional argument:
 
 	$ git clone URL/SUBDIR MYSUBDIR
 
