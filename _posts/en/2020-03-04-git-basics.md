@@ -22,7 +22,11 @@ If you want to clone the repository into a directory named something like MYSUBD
 
 That command does the same thing as the previous one, but the target directory is called MYSUBDIR.[^clone]
 
+Note the source repo is called `origin` and your new local is `master` by default. Later on you can use `git pull origin master`, to get the newest version from remote origin repo.
 
+
+
+### 
 
 ### git status
 
@@ -76,7 +80,7 @@ You should issue these command:
 		git push
 
 
-### Bonus
+### Bonus - something totaly different
 
 [Academic Writing in Markdown](https://youtu.be/hpAJMSS8pvs) with special reference to its advantages and features like creating footnotes, bibliographical references.
 
