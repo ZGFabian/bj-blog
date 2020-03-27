@@ -8,7 +8,7 @@ language: en
 
 In these covid-times more attentions were paid the work of Ignaz Semmelweis. Google was recognizing Ignaz Semmelweis and Handwashing with this Doodle: 
 
-![googledoodle](https://youtu.be/h8OX0FNWANM)
+[googledoodle](https://youtu.be/h8OX0FNWANM)
 
 "And the most I can give you to cling to is a poor thing, actually. Not much better than nothing, and maybe it’s a little worse than nothing. It is the idea of a truly modern hero. It is the bare bones of the life of Ignaz Semmelweis, my hero.
 

@@ -17,14 +17,14 @@ Csak néhány jegyzet a könyvvel kapcsolatban:
 
 <i class="fa fa-sticky-note-o fa-2x" aria-hidden="true"></i> Néhány lényeges gondolat:
 - Harrari számára a történelem a Homo Sapiens kialakulásával veszi kezdetét. Előtte sok milliárd évig történelem előtti idők voltak ...
-- Minden tudományterületnek vannak axiómái, melyekkel nem vitatkozik a szerző. Az egyik ilyen például a biológia területén az evolució.
+- Minden tudományterületnek vannak axiómái, melyekkel nem vitatkozik a szerző. Az egyik ilyen például a biológia területén az evolúció.
 - A Homo Sapiens párhuzamosan létezett más ember fajokkal (pl. Homo Neanderthalis)
-- A Sapiens részben keveredhetett más emberfajokkal, részben pedig kiírtotta azokat.
+- A Sapiens részben keveredhetett más emberfajokkal, részben pedig kiirtotta azokat.
 - A Sapiens drasztikusan átalakítja ökológiai környezetét (vö. Ausztrália élővilága, mammut) 
 - Forradalmi változás: kognitív forradalom / mezőgazdasági forradalom / írásbeliség
 - Az írásbeliség különböző szintjei
 - A kultúra, (vallás, hiedelmek, stb) lényegi szerepe a civilizációk kialakulásában
-- A történelem teológikus jellege: a globalizált világ kialakulása
+- A történelem teleologikus jellege: a globalizált világ kialakulása
 - A társadalmi hierarchiák, rendszerek konstruált (interszubjektív) jellege (vö. rasszok és nemek közötti különbségek) 
 
 
