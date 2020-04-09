@@ -79,6 +79,9 @@ You should issue these command:
 		git rebase --continue
 		git push
 
+### More to check alias Todo
+
+ - [git-annex](https://git-annex.branchable.com/)
 
 ### Bonus - something totaly different
 
