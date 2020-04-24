@@ -6,7 +6,7 @@ tags: [R, software]
 language: en
 ---
 
-  - ggplot2: qplot etc
+  - ggplot2: qplot etc [cheats](https://rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
 
   - reshape2: for melt
 
