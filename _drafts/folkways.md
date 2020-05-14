@@ -10,5 +10,4 @@ language: en
 As an early example of national stereotypes Wikipedia present a picture on Dutch and Chinese ![children]("img/drafts/National-stereotypes.jpg")
 
 William Graham Sumner ethnocentrism - Allport
-Albion seeds 
-Luke Smith
+Albion seeds Luke Smith

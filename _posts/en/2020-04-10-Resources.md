@@ -2,12 +2,14 @@
 layout: post
 title: Resources for R statistics
 categories: data
-tags: [R, rstats, packages]
+tags: [R, rstats, tidyverse, SPSS, packages]
 language: en
 ---
 
+The road from proprietary tools toward FOSS is long and far from being straightforward. There is no single Golden Path (as in Buddhism or in Kabbalah) or a yellow brick road for Dorothy as in the classic tale of The Wizzard Oz. It is especially true for R's jungle-like ecosystem where tidyverse packages occupy more and more space. [cf. this not to recent SO post](https://stackoverflow.blog/2017/10/10/impressive-growth-r/) 
+
 ## Data sources
- - lodown [Analyze Surves Data for Free](http://asdfree.com/prerequisites.html) - online book by [Anthony Damico](http://www.ajdamico.com/). 
+ - lodown [Analyze Survey Data for Free](http://asdfree.com/prerequisites.html) - online book by [Anthony Damico](http://www.ajdamico.com/). 
  		- [github](https://github.com/ajdamico/lodown/tree/master/R)
  - WDI
  - eurostat
@@ -20,20 +22,30 @@ language: en
 
 ## Nomenclatures
  - countrycodes
+ - fuzzy cntr codes TODO
 
 ## Data manipulations
- - dplyr: [cheatsheet](https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf)
+ - dplyr: [cheat-sheet](https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf)
  - tidyr 
 
 ## Data import
  - foreign
+ - haven translates "value labels into a new labelled() class, which preserves the original semantics and can easily be coerced to factors with as_factor(). Special missing values are preserved." [haven.tidyverse.org](https://haven.tidyverse.org/)
+ - readr
+ - data.table::fread()
 
-## Plotting
- - ggplot2: [cheatsheet](https://rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
+## Plotting & visualization
+ - ggplot2: [cheat-sheet](https://rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
  		- another [cheats](https://github.com/sefakilic/ggplot-cheatsheet)
+ 		- [ggplot2 workshop part 1](https://youtu.be/h29g21z0a68) by Thomas Lin Pedersen (@thomasp85)
  - extrafonts
  - gganimate 
  		- [barchart race](https://evamaerey.github.io/little_flipbooks_library/racing_bars/racing_barcharts.html#1)
+ - ggbump
+ - patchwork
+ - ggforce
+ - dashboards flex TODO
+ - [ggdag](https://github.com/malcolmbarrett/ggdag) by Malcolm Barett
 
 ## Styled tables
  - pander with pandoc
@@ -42,24 +54,31 @@ language: en
  - xtables
 
 ## SPSS related
- - expss
- - foreign
+ - expss (TODO)
+ - foreign (import that use pspp method for SPSS formats)
+ - memisc
+ - SPSStoR (for learning R and dplyr syntax)
+ - gmodels (esp. CrossTable function, which is "an implementation of a cross-tabulation function with output similar to S-Plus crosstabs() and SAS Proc Freq (or SPSS format) with Chi-square, Fisher and McNemar tests of the independence of all table factors."[documentation](https://www.rdocumentation.org/packages/gmodels/versions/2.18.1/topics/CrossTable)
 
 ## Survey data analysis
  - survey
- - survyr
+ - survyr (tidyverse implemntation of survey package)
+ - memisc
+ - dplyr (there are some weighted function that can be appropriate for point estimates)
 
-## blog and authoring
+## blog and authoring (based on markdown and pandoc)
  - blogdown
  - bookdown
  - rmarkdown
  - pander
  - knitR
  - xaringan
-
+ - Tufte handout
 <!--- this is going to be a new post 
 ## learning R
  - datacamp
-
+ - R4DS
  - coding style guides
+ - Lander Analytics YT channel
+ - (https://zenartofrpkgs.netlify.app/)
  --->
