@@ -26,6 +26,8 @@ language: en
 
 ## Tools and apps
 
+### R packages
+
 ## Learn more
 
 Lander analytics channel - Noam Ross: [R, Coronavirus, and Pandemic Prevention](https://youtu.be/5UXbfs5xIq0)

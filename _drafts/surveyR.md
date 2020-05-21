@@ -1,0 +1,75 @@
+---
+layout: post
+title: Learning materials for weighted survey analyses in R
+categories: data
+tags: [Thomas Lumley, survey analyis, weights, cluster, strata]
+language: en
+---
+
+R has a dedicated package for [survey](http://r-survey.r-forge.r-project.org/survey/) analyses called `survey` which was developed by [Thomas Lumley](https://notstatschat.rbind.io/) [(@tslumley)](https://twitter.com/tslumley).
+It creates a new object called `svydesign`, which basically the same as data.frame objects and contains all attributes that is necessary for analyses these special objects.
+
+
+
+
+The fundamentals are in survey design are:
+
+# weights
+
+ - design weights: they correct for purposive oversampling
+ - population weights (This is simply the ratio of population size to sample size, if the inclusion probability equal for each element of the population. For example a 10 element sample that is drawn from a population of 100 elements, each element should be multiplied with 10 to get the population size.   
+ - post-stratification weights: adjust sample attributes (usually demographics) to match known population attributes.
+
+Taking into accounts
+- frame errors
+- unit non-response errors
+- item non-response errors
+
+# Errors
+
+Sampling errors vs non-sampling errors
+
+
+"Total survey error is the difference between a population parameter (such as the mean, total or proportion) and the estimate of that parameter based on the sample survey or census. It has two components: sampling error and nonsampling error. Sampling error, which occurs in sample surveys but not censuses results from the variability inherent in using a randomly selected fraction of the population for estimation. Nonsampling error, which occurs in surveys and censuses alike, is the sum of all other errors, including errors in frame construction, sample selection, data collection, data processing and estimation methods." (Source: [Wikipedia](https://en.wikipedia.org/wiki/Total_survey_error))[^emph]
+
+Total survey error approach applied at the:
+
+ - [European Social Survey](https://www.europeansocialsurvey.org/docs/round7/methods/ESS7_quality_matrix.pdf)
+ - OECD ()
+
+Measurement error: "when respondents misunderstand a question, or find it difficult to answer" (wikipedia)
+
+References:
+
+The Total Survey Error Approach: A Guide to the New Science of Survey Research
+
+Total Survey Error by Herb Weisberg in: The Oxford Handbook of Polling and Survey Methods
+
+
+ - cluster sample
+
+ - stratified sample[^ss]
+ 
+ - others: systematic, convenience[^xbox] and "voluntary response" VR sampling. Note that in social research almost all study is based on "voluntary response" sampling. TODÖ: VR sampling.
+
+
+
+
+
+Browse survey package's vignettes with `browseVignettes("survey")`. Some insights the docs:  
+
+"Estimating a mean or total in a subpopulation (domain) from a survey, eg
+the mean blood pressure in women, is not done simply by taking the subset of
+data in that subpopulation and pretending it is a new survey. This approach
+would give **correct point estimates** but **_incorrect standard errors_**." (domain.pdf / domain.R)
+
+
+
+twostage.pdf provides an example of two-staged **clustered** survey design object: 
+A very simple, but insightful demonstration of the difference between stratified and cluster sampling. 
+
+
+[^xbox]: Gelman's xbox voters
+
+[^ss]: Optimization of sampling strata with the [SamplingStrata package](https://barcaroli.github.io/SamplingStrata/articles/SamplingStrata.html) 
+[^emph]: Emphases added by me. 

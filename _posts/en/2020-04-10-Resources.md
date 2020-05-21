@@ -6,7 +6,7 @@ tags: [R, rstats, tidyverse, SPSS, packages]
 language: en
 ---
 
-The road from proprietary tools toward FOSS is long and far from being straightforward. There is no single Golden Path (as in Buddhism or in Kabbalah) or a yellow brick road for Dorothy as in the classic tale of The Wizzard Oz. It is especially true for R's jungle-like ecosystem where tidyverse packages occupy more and more space. [cf. this not to recent SO post](https://stackoverflow.blog/2017/10/10/impressive-growth-r/) 
+The road from proprietary tools toward FOSS is long and far from being straightforward. There is no single Golden Path (as in Buddhism or in Kabbalah) or a yellow brick road for Dorothy as in the classic tale of The Wizzard Oz. It is especially true for R's jungle-like ecosystem where tidyverse packages occupy more and more space. [cf. this not so recent SO post](https://stackoverflow.blog/2017/10/10/impressive-growth-r/) 
 
 ## Data sources
  - lodown [Analyze Survey Data for Free](http://asdfree.com/prerequisites.html) - online book by [Anthony Damico](http://www.ajdamico.com/). 
