@@ -6,7 +6,7 @@ tags: [R, rstats, tidyverse, SPSS, packages]
 language: en
 ---
 
-The road from proprietary tools toward FOSS is long and far from being straightforward. There is no single Golden Path (as in Buddhism or in Kabbalah) or a yellow brick road for Dorothy as in the classic tale of The Wizzard Oz. It is especially true for R's jungle-like ecosystem where tidyverse packages occupy more and more space. [cf. this not so recent SO post](https://stackoverflow.blog/2017/10/10/impressive-growth-r/) 
+The road from proprietary tools toward FOSS is long and far from being straightforward. There is no single Golden Path (as in Buddhism or in Kabbalah) or a "yellow brick road". It is especially true for R's jungle-like ecosystem where tidyverse packages occupy more and more space. [cf. this SO post](https://stackoverflow.blog/2017/10/10/impressive-growth-r/) 
 
 ## Data sources
  - lodown [Analyze Survey Data for Free](http://asdfree.com/prerequisites.html) - online book by [Anthony Damico](http://www.ajdamico.com/). 
@@ -17,12 +17,12 @@ The road from proprietary tools toward FOSS is long and far from being straightf
  - gapminder
 
 ## Tidyverse 
- - https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Tidyverse+Cheat+Sheet.pdf
- - https://www.datacamp.com/community/blog/tidyverse-cheat-sheet-beginners
+ - [Cheat sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Tidyverse+Cheat+Sheet.pdf)
+ - [Yet another one](https://www.datacamp.com/community/blog/tidyverse-cheat-sheet-beginners)
 
 ## Nomenclatures
  - countrycodes
- - fuzzy cntr codes TODO
+ - fuzzy cntr codes
 
 ## Data manipulations
  - dplyr: [cheat-sheet](https://github.com/rstudio/cheatsheets/blob/master/data-transformation.pdf)
@@ -44,7 +44,9 @@ The road from proprietary tools toward FOSS is long and far from being straightf
  - ggbump
  - patchwork
  - ggforce
- - dashboards flex TODO
+ - arrange datapoint labels easily with [ggrepel](https://github.com/slowkow/ggrepel)
+ ![ggrepel logo](https://raw.githubusercontent.com/slowkow/ggrepel/master/man/figures/logo.svg)
+ - [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/): Easy interactive dashboards for R
  - [ggdag](https://github.com/malcolmbarrett/ggdag) by Malcolm Barett
 
 ## Styled tables
