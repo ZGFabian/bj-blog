@@ -35,19 +35,30 @@ The road from proprietary tools toward FOSS is long and far from being straightf
  - data.table::fread()
 
 ## Plotting & visualization
- - ggplot2: [cheat-sheet](https://rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
- 		- another [cheats](https://github.com/sefakilic/ggplot-cheatsheet)
- 		- [ggplot2 workshop part 1](https://youtu.be/h29g21z0a68) by Thomas Lin Pedersen (@thomasp85)
- - extrafonts
- - gganimate 
- 		- [barchart race](https://evamaerey.github.io/little_flipbooks_library/racing_bars/racing_barcharts.html#1)
+ 
+ * ggplot2: [cheat-sheet](https://rstudio.com/wp-content/uploads/2016/11/ggplot2-cheatsheet-2.1.pdf)
+  	* another [cheats](https://github.com/sefakilic/ggplot-cheatsheet)
+ 	* [ggplot2 workshop part 1](https://youtu.be/h29g21z0a68) by Thomas Lin Pedersen (@thomasp85)
+  * extrafonts
+ * gganimate 
+  	* [barchart race](https://evamaerey.github.io/little_flipbooks_library/racing_bars/racing_barcharts.html#1)
  - ggbump
- - patchwork
+ - [patchwork](https://github.com/thomasp85/patchwork) makes simple to combine separate ggplots into the same graphic. It works magically like this:
+
+```
+ 	(p1 | p2 | p3) /
+ 	     p4
+```
+
+<img src="https://raw.githubusercontent.com/thomasp85/patchwork/master/man/figures/logo.png" alt="patchwork logo" width="150"/>{: .center-block :}
+
  - ggforce
  - arrange datapoint labels easily with [ggrepel](https://github.com/slowkow/ggrepel)
- ![ggrepel logo](https://raw.githubusercontent.com/slowkow/ggrepel/master/man/figures/logo.svg)
+
+  <img src="https://raw.githubusercontent.com/slowkow/ggrepel/master/man/figures/logo.svg" alt="ggrepel logo" width="150"/>{: .center-block :}
+
  - [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/): Easy interactive dashboards for R
- - [ggdag](https://github.com/malcolmbarrett/ggdag) by Malcolm Barett
+ - [ggdag](https://github.com/malcolmbarrett/ggdag) by Malcolm Barett to tidy, analyze, and plot causal directed acyclic graphs (DAGs).
 
 ## Styled tables
  - pander with pandoc
