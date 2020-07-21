@@ -101,7 +101,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+#  facebook: true
   linkedin: true
   
 # How to display the link to the website in the footer
@@ -109,8 +109,8 @@ share-links-active:
 url-pretty: "zgfabian.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # Algolia search
-algolia:
-  application_id: 'TIAPAVFM82'
+#algolia:
+#  application_id: 'TIAPAVFM82'
 
 
 # --- Web Statistics Section --- #
@@ -163,7 +163,7 @@ staticman:
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50
-
+excerpt_separator: "<!--excerpt-->"
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
 title-separator: "-"
@@ -221,56 +221,56 @@ exclude:
   - Vagrantfile
 
 # prose.io config
-prose:
-  rooturl: '_posts'
-  media: 'img'
-  ignore:
-    - 404.html
-    - LICENSE
-    - feed.xml
-    - _config.yml
-    - /_layouts
-    - /_includes
-    - /css
-    - /img
-    - /js
-  metadata:
-    _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
-      - name: "subtitle"
-        field:
-          element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
-          alterable: true
-      - name: "date"
-        field:
-          element: "text"
-          label: "Date"
-          help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
-          alterable: true
-      - name: "image"
-        field:
-          element: "text"
-          label: "Image"
-          help: "Add a thumbnail image to your post."
-          placeholder: "Thumbnail"
-          alterable: true
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Check to publish post, uncheck to hide."
+# prose:
+#   rooturl: '_posts'
+#   media: 'img'
+#   ignore:
+#     - 404.html
+#     - LICENSE
+#     - feed.xml
+#     - _config.yml
+#     - /_layouts
+#     - /_includes
+#     - /css
+#     - /img
+#     - /js
+#   metadata:
+#     _posts:
+#       - name: "layout"
+#         field:
+#           element: "hidden"
+#           value: "post"
+#       - name: "title"
+#         field:
+#           element: "text"
+#           label: "Post title"
+#           placeholder: "Title"
+#           alterable: true
+#       - name: "subtitle"
+#         field:
+#           element: "textarea"
+#           label: "Subtitle"
+#           placeholder: "A description of your post."
+#           alterable: true
+#       - name: "date"
+#         field:
+#           element: "text"
+#           label: "Date"
+#           help: "Enter date of post."
+#           placeholder: "yyyy-mm-dd"
+#           alterable: true
+#       - name: "image"
+#         field:
+#           element: "text"
+#           label: "Image"
+#           help: "Add a thumbnail image to your post."
+#           placeholder: "Thumbnail"
+#           alterable: true
+#       - name: "published"
+#         field:
+#           element: "checkbox"
+#           label: "Publish"
+#           help: "Check to publish post, uncheck to hide."
 
 # collections
 collections:
