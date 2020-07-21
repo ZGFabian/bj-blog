@@ -2,7 +2,7 @@
 layout: post
 title: Multi-line chart - number of COVID deaths in V4 countries
 subtitle: ggplot, line chart, V4 countries, COVID-19
-image: /img/20-07-16-pivot/tidyr_v1.webp
+image: /img/20-07-19-linechart/ggplot_logo.png
 categories: data
 tags: [R, rstats, data wrangling, tidyverse, dplyr, tidyr]
 language: en
