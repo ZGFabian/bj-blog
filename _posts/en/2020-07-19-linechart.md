@@ -8,7 +8,7 @@ tags: [R, rstats, data wrangling, tidyverse, dplyr, tidyr]
 language: en
 ---
 
-I would like to highlight here the charting capabilities of ggplot, that are based on different layers containing geoms (lines, points, bars, etc). There should be an “aesthetic mapping” that describes how variables in the data are mapped to geoms in the basic `ggplot()` declaration. However, additional mappings can be defined in each layers.
+I would like to highlight here the charting capabilities of ggplot, that are based on different layers containing geoms (lines, points, bars, etc). There is at least one “aesthetic mapping” that describes how variables in the data are mapped to geoms in the basic `ggplot()` declaration. However, additional mappings can be defined in each layers.
 
 We shall create a line chart, which shows the cumulative daily COVID-19 deaths in Visegrad countries, that are Czechia, Hungary, Poland and Slovakia with R’s ggplot package.
 

@@ -674,7 +674,7 @@ pre {
   line-height: 1.5em;
 }
 .highlight pre {
-  border: none;
+  border: 5px;
   background: none;
   margin: 0;
 }
@@ -684,7 +684,7 @@ pre {
   background-size: auto 3em;
   background-position-y: 10px;
   border: 1px solid rgba(0,0,0,0.1);
-  border-left: 7px solid #444;
+/*  border-left: 7px solid #444; */
 }
 .highlight > pre:not([class~="highlight"]) { /* code block with line number */
   padding: 0;
