@@ -13,20 +13,20 @@ Here are the two plots.
 [![p1](/img/20-08-11-ess-plots/p1_small.png)](/img/20-08-11-ess-plots/p1.png)
 [![p2](/img/20-08-11-ess-plots/p2_small.png)](/img/20-08-11-ess-plots/p2.png)
 
-The underlying codes demonstrate how to use `srvyr` and `dplyr` to work together on survey data. R can be difficult when it is about weighted sample data. Although `survey` package has been around quite long, but its usage is not straightforward.  This package is particularly useful for analyses of *complex* sampling design's (eg. multi-staged cluster sample). `Srvyr` adds some useful features that fits well into tidyverse philosophy[^hadley]. (`survey` use "formula syntax", rather than "Dollar sign" or "tidyverse syntax"[^syntax].) Instead of going to details I forward you to the following useful resources:
+The underlying codes demonstrate how to use `srvyr` and `dplyr` to work together on survey data. R can be difficult when it is about weighted sample data. Although `survey` package has been around quite long, but its usage is not straightforward.  This package is particularly useful for analyses of *complex* sampling design's (eg. multi-staged cluster sample). `Srvyr` adds some useful features that fits well into tidyverse workflow. Instead of going to details I forward you to the following useful resources:
 
-1. [Weighting European Social Survey Data](https://www.europeansocialsurvey.org/docs/methodology/ESS_weighting_data_1.pdf)
+1. [Weighting European Social SurveyData](https://www.europeansocialsurvey.org/docs/methodology/ESS_weighting_data_1.pdf)
 2. [Federico Vegetti: Survey Weights with R](https://federicovegetti.github.io/teaching/heidelberg_2018/lab/sst_lab_day2.html)
 3. Kieran Healy: Data Visualization. (See. Chapter on ["Plots from complex surveys"](https://socviz.co/index.html))
 4. Thomas Lumley. 2010. [Complex Surveys: A Guide to Analysis Using R](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470580066)
 
-Data are downloadable from [ESS site](https://www.europeansocialsurvey.org/data/round-index.html) after registration. I will use a subsample of four (V4) countries and limited number of columns.   
+Data are downloadable from ESS site after registration. I will use a subsample of four (V4) countries and limited number of columns.   
 
-First read SPSS (labelled) data with `haven` package functions:
+First read SPSS labelled data with haven package functions:
 ```r
 iess <- read_sav("data/ESS1-8e01.sav") %>% as_factor()
 ```
-Note that `as_factor` function converts all haven labelled columns to factors and user-missing values (like 88=DK) to `NA`.
+Note that `as_factor`function converts all haven labelled columns to factors and user-missing values (like 88=DK) to `NA`.
 
     # A tibble: 51,263 x 40
        cntry cname cedition cproddat cseqno name  essround edition  idno
@@ -145,7 +145,3 @@ p2 <- p2 + theme(text = element_text(family = "Ubuntu Mono"))
 ```
 
 ![p2](/img/20-08-11-ess-plots/p2.png)
-
-[^hadley]: "The philosophy of the tidyverse is similar to and inspired by the “unix philosophy” (Raymond 2003), a set of loose principles that ensure most command line tools play well together." Ross Z, Wickham H, Robinson D. 2017. Declutter your R workflow with tidy tools. PeerJ Preprints 5:e3180v1 [https://doi.org/10.7287/peerj.preprints.3180v1](https://doi.org/10.7287/peerj.preprints.3180v1) 
-
-[^syntax]: Amelia McNamara: [R Syntax Comparison:: CHEAT SHEET](https://raw.githubusercontent.com/rstudio/cheatsheets/master/syntax.pdf)
