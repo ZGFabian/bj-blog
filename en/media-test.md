@@ -6,7 +6,7 @@ tags: [video, image, image gallery, google fonts, todo]
 lang: en
 ---
 
-# Hello Áron!
+# Hello who may concerns!
 
 [Beautiful Jekyll structure goes about here.](#todo) It uses the following js libraries.
 
@@ -23,7 +23,7 @@ lang: en
 [![blabla](/img/blabla_av_white_bg.png#thumbnail2 "blablabla ...")](/img/blabla_av_white_bg.png)
 
 
-These images from [weserv.nl](https://images.weserv.nl/docs/#how-it-works)
+These images are served from [weserv.nl](https://images.weserv.nl/docs/#how-it-works)
 ```html
 <img src="//images.weserv.nl/?url=images.weserv.nl/lichtenstein.jpg&w=300&h=300&fit=cover&a=focal-0-20">
 ```
@@ -50,7 +50,7 @@ Animated WebP:
 
 {% include image-gallery.html folder="/img/fa_album" %}
 
-Important: image-gallery works only with jpg.
+**Important**: image-gallery works only with _jpg_.
 
 <details> 
   <summary>Q1: What is the best Language in the World?</summary>
