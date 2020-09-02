@@ -1,6 +1,6 @@
 ---
 title: Mapping Eurostat data 
-subtitle: using E's eurostat, sf and ggplot2 packages
+subtitle: using R's eurostat, sf and ggplot2 packages
 categories: data
 tags: [ggplot, sf, eurostat, mapping]
 lang: en
