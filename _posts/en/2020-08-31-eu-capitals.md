@@ -5,6 +5,7 @@ categories: data
 tags: [ggplot, sf, eurostat, maps, capitals, Wes Anderson]
 lang: en
 image: /img/20-08-31-capitals/cavalcanti-screenshot.png
+comments: true
 ---
 
 ![half-p1-capseu-def.png](/img/20-08-31-capitals/half-p2-capseu-def.png) 
