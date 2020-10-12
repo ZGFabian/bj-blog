@@ -7,9 +7,9 @@ lang: en
 image: /img/20-10-07-mortality/hu-mortality-w36-small.png
 comments: true
 date: 2020-10-12
-excerpt: Current and historical mortality data can be used for assessing the net cost of current pandemic. Hungarian data for the first eight months are favourable compared to the US. However the infection curves are rising in several EU countries while the spread of the virus seemed to has slowed down in the States.   
+excerpt: Current and historical mortality data can be used for assessing the net cost of current pandemic. Hungarian data for the first eight months are favourable compared to the US. However the infection curves are rising in several EU countries while the spread of the virus seems to be slowing down in the States.   
 ---
-Summary: Current and historical mortality data can be used for assessing the net cost of current pandemic. Hungarian data for the first eight months are favourable compared to the US. However the infection curves are rising in several EU countries while the spread of the virus seemed to has slowed down in the States. 
+Summary: Current and historical mortality data can be used for assessing the net cost of current pandemic. Hungarian data for the first eight months are favourable compared to the US. However the infection curves are rising in several EU countries while the spread of the virus seems to be slowing down in the States. 
 
 Kieran Healy (@kjhealy) recently [tweeted](https://twitter.com/kjhealy/status/1313276959263162368){:target="blank"} and [published](https://kieranhealy.org/blog/archives/2020/09/24/us-excess-mortality/){:target="_blank"} some shocking charts on US weekly mortality numbers that showed the high cost of current pandemic in terms of mortality surplus. Compared to previous years the overall picture looks like this (*Figure 1*): 
 
