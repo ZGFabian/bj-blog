@@ -12,7 +12,7 @@ I would like to highlight here the charting capabilities of ggplot, that are bas
 
 We shall create a line chart, which shows the cumulative daily COVID-19 deaths in Visegrad countries, that are Czechia, Hungary, Poland and Slovakia with R’s ggplot package.
 
-After some data wrangling (cf. this [post](https://zgfabian.github.io/2020-07-16-dplyr_dw1/)) I have a data frame (a "tibble"), with 3 columns and as many rows as the time-series spans from 22th of January till the most recent date. Head of the df looks like this:
+After some data wrangling (cf. this [post]({{ site.baseurl }}https://zgfabian.github.io/2020-07-16-dplyr_dw1/)) I have a data frame (a "tibble"), with 3 columns and as many rows as the time-series spans from 22th of January till the most recent date. Head of the df looks like this:
 
 ```r
       # A tibble: 6 x 3
@@ -56,6 +56,6 @@ p1 <- p1 + xlim(x = c(Sys.Date() - 60, NA)) # x scale range: previous 60 days
 p1
 ```
 
-![basic_plot_deaths.png](/img/20-07-19-linechart/basic_plot_deaths.png)
+![basic_plot_deaths.png]({{ site.baseurl }}/img/20-07-19-linechart/basic_plot_deaths.png)
 
-That’s all. [The Rscript file is here](https://github.com/ZGFabian/datafiles/blob/master/v4_deaths.R).
+That’s all. [The Rscript file is here]({{ site.baseurl }}https://github.com/ZGFabian/datafiles/blob/master/v4_deaths.R).

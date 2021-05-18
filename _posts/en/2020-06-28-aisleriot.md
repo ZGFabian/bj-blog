@@ -10,7 +10,7 @@ I am a great fan of Freecell solitaire card game that is part of aisleriot packa
 1. Download the theme (uncompressif necessary)
 2. Copy the svgz file to `/usr/share/aisleriot/cards/` folder. 
 
-Here are my favorites: dark version of C1 card set (C1B) from [gnome-look.org](https://www.gnome-look.org/p/1303420/) and Sin city theme:
+Here are my favorites: dark version of C1 card set (C1B) from [gnome-look.org]({{ site.baseurl }}https://www.gnome-look.org/p/1303420/) and Sin city theme:
 
-[Sin city](https://www.gnome-look.org/p/1303093/)
-[![screenshot of card themes](/img/20-06-28-freecell/freecell.png)](/img/20-06-28-freecell/freecell.png)
+[Sin city]({{ site.baseurl }}https://www.gnome-look.org/p/1303093/)
+[![screenshot of card themes]({{ site.baseurl }}/img/20-06-28-freecell/freecell.png)]({{ site.baseurl }}/img/20-06-28-freecell/freecell.png)
