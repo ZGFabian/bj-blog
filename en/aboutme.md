@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ID
-subtitle: Zoltán Fábián
+subtitle: zgfabian
 permalink: /en/aboutme/
 tags: [Francois Villon]
 lang: en
