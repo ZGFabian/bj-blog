@@ -10,7 +10,7 @@ lang: en
 ---
 I am reading Y. N. Harari’s bestseller book, _Sapiens: A Brief History Of Humankind_. I will use it’s text to show some basic capacities of R to analyse texts quantitatively. And also wanted to give a try to a [color scheme](https://github.com/karthik/wesanderson) named after the American filmmaker, [Wes Anderson](https://en.wikipedia.org/wiki/Wes_Anderson).
 
-<img src="/img/sap_wc.png" alt="Wordcloud">
+<img src="/bj-blog/img/sap_wc.png" alt="Wordcloud">
 The book is downloadable from the the [Internet Archive](https://archive.org/details/sapiensabriefhistoryofhumankindyuvalnoahharari) in several formats. I got it in EPUB for my Calibre e-book collection then converted to plain text in Calibre. 
 The R codes were borrowed with minor modifications from this [guide](http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know) to text mining fundamentals in R.
 
