@@ -8,8 +8,11 @@ image: /img/mrfox.jpg
 googlefonts: ["Fredoka One"]
 lang: en
 ---
+I am reading Y. N. Harari’s bestseller book, _Sapiens: A Brief History Of Humankind_. I will use it’s text to show some basic capacities of R to analyse texts quantitatively. And also wanted to give a try to a [color scheme]({{ site.baseurl }}https://github.com/karthik/wesanderson) named after the American filmmaker, [Wes Anderson]({{ site.baseurl }}https://en.wikipedia.org/wiki/Wes_Anderson).
 
-<img src="/img/sap_wc.png" alt="Wordcloud">
+<img src="{{ site.url }}/img/sap_wc.png" alt="Wordcloud">
+The book is downloadable from the the [Internet Archive]({{ site.baseurl }}https://archive.org/details/sapiensabriefhistoryofhumankindyuvalnoahharari) in several formats. I got it in EPUB for my Calibre e-book collection then converted to plain text in Calibre. 
+The R codes were borrowed with minor modifications from this [guide]({{ site.baseurl }}http://www.sthda.com/english/wiki/text-mining-and-word-cloud-fundamentals-in-r-5-simple-steps-you-should-know) to text mining fundamentals in R.
 
 ```r
 # install.packages("tm")  # for text mining
@@ -93,9 +96,15 @@ wordcloud(words = d$word, freq = d$freq, scale=c(1,.3), min.freq = 40,
 dev.off()
 ```
 ### Other useful resources for this posts:
+- [Word cloud generator in R:]({{ site.baseurl }}http://www.sthda.com/english/wiki/word-cloud-generator-in-r-one-killer-function-to-do-everything-you-need) One killer function to do everything you need
+- [The A–Z of RColorBrewer Palette]({{ site.baseurl }}https://www.datanovia.com/en/blog/the-a-z-of-rcolorbrewer-palette/)
+- [Basics of Text Mining in R]({{ site.baseurl }}http://rstudio-pubs-static.s3.amazonaws.com/256588_57b585da6c054349825cba46685d8464.html) – Bag of Words
+- [A Wes Anderson color palette for R]({{ site.baseurl }}https://github.com/karthik/wesanderson)
 
 
 {: style="text-align: center;"}
 ## (Almost) Happy End 
 
 <h1 style="font-family:Oswald;">Wait! What about the Fantastic Mr. Fox, the guy from `wes_palette`?</h1>
+Click [here]({{ site.baseurl }}https://youtu.be/K_BzxFkkImI?t=6) to meet him.
+[![]({{ site.baseurl }}https://raw.githubusercontent.com/karthik/wesanderson/master/figure/fantasticfox-1.png)]({{ site.baseurl }}https://youtu.be/K_BzxFkkImI?t=6)
