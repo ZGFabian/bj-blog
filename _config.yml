@@ -9,7 +9,7 @@ description: Talált dolgok, i.e. Odds and ends
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://zgfabian.github.io"
+url: ""
 
 # baseurl should be an empty string
 # baseurl: ""
@@ -134,7 +134,7 @@ google_analytics: "G-G64CP7EVK1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "zgfabian"
+# disqus: "zgfabian"
 
 # If you want to use JustComments fill with the API Key
 # just-comments: "ABCD-EFGH-IJKL"
