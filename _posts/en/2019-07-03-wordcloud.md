@@ -105,6 +105,6 @@ dev.off()
 {: style="text-align: center;"}
 ## (Almost) Happy End 
 
-<h1 style="font-family:Oswald;">Wait! What about the Fantastic Mr. Fox, the guy from `wes_palette`?</h1>
+<h2 style="font-family:Oswald;">Wait! What about the Fantastic Mr. Fox, the guy from `wes_palette`?</h1>
 Click [here](https://youtu.be/K_BzxFkkImI?t=6) to meet him.
 [![](https://raw.githubusercontent.com/karthik/wesanderson/master/figure/fantasticfox-1.png)](https://youtu.be/K_BzxFkkImI?t=6)
