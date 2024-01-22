@@ -15,8 +15,6 @@ A recent example of using Miller columns is [ranger](https://github.com/ranger/r
 
 ![Ranger screenshot](https://raw.githubusercontent.com/ranger/ranger-assets/master/screenshots/screenshot.png){: .center-block :}
 
-<a title="Gorthmog [CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)]" href="https://commons.wikimedia.org/wiki/File:DEC_VT100_terminal_transparent.png"><img width="1024" alt="DEC VT100 terminal transparent" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/DEC_VT100_terminal_transparent.png/1024px-DEC_VT100_terminal_transparent.png"></a>
-
 ## Source of images: 
 - Post cover: [Wikimedia](https://commons.wikimedia.org/wiki/File:Three_in_a_row_-_National_Capitol_Columns.jpg) 
 - Ranger screenshot: [Ranger](https://ranger.github.io/)
