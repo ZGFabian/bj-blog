@@ -46,10 +46,10 @@ When you hit <kbd>?+k</kbd> in ranger, you will get your predefined keybindings 
 
 ### Folder / Directory
 
-F7 or :mkdir create directory
-dd cut directory
-yy copy directory
-pp paste directory
+ - F7: or :mkdir create directory
+ - dd: cut directory
+ - yy: copy directory
+ - pp: paste directory
 
 ### Navigation
 
