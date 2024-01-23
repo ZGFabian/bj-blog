@@ -55,11 +55,6 @@ pp paste directory
 
 gh go home, change to ~ (home) folder
 
-
-### Notes
-Cf. rc.conf set viewmode miller vs multipane
-
-
 [Ranger Cheatsheet](https://gist.github.com/heroheman/aba73e47443340c35526755ef79647eb)
 
 ## Related applications:
