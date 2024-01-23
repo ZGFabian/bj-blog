@@ -20,7 +20,7 @@ ext-css: "//oldhungarian.eu/stylesheets/oldhungarian.css"
 >For any markup that is not covered by Markdown’s syntax, you simply use HTML itself. There’s no need to preface it or delimit it to indicate that you’re switching from Markdown to HTML; you just use the tags."**
 
 
--- [John Gruber]({{ site.baseurl }}https://daringfireball.net/projects/markdown/syntax#philosophy) the inventor of the Markdown markup language. 
+-- [John Gruber](https://daringfireball.net/projects/markdown/syntax#philosophy) the inventor of the Markdown markup language. 
 
 # Header 1
 
@@ -64,11 +64,11 @@ Not bad, but you may want to pretty raw format:
 
 A markdown picture resized with custom css in URI
 
-![BlaBlaBla]({{ site.baseurl }}/img/site/blabla_av_orange.png#thumbnail2)
+![BlaBlaBla](/img/site/blabla_av_orange.png#thumbnail2)
 
-Images can also be centered like this `![BlaBlaBla]({{ site.baseurl }}/PATH/){: .center-block :}`
+Images can also be centered like this `![BlaBlaBla](/PATH/){: .center-block :}`
 
-![BlaBlaBla]({{ site.baseurl }}/img/site/blabla_av_white_bg.png#thumbnail){: .center-block :}
+![BlaBlaBla](/img/site/blabla_av_white_bg.png#thumbnail){: .center-block :}
 
 
 <div class="container"> 
@@ -128,9 +128,9 @@ You can add notification, warning and error boxes like this:
 
 ## Symbols, icons & emojis ☯ ⚡
 
- - [Unicode character table]({{ site.baseurl }})
- - Rovásírás - [Old Hungarian character table]({{ site.baseurl }}https://unicode-table.com/en/blocks/old-hungarian/)
- - [UTF-8 symbols]({{ site.baseurl }}https://www.w3schools.com/charsets/ref_utf_symbols.asp)
+ - [Unicode character table]()
+ - Rovásírás - [Old Hungarian character table](https://unicode-table.com/en/blocks/old-hungarian/)
+ - [UTF-8 symbols](https://www.w3schools.com/charsets/ref_utf_symbols.asp)
 
 I will display a big Sun <span style='font-size:100px;'>&#9728;</span>
 And now something different: <span style='font-size:100px; font-family:Web_OldHungarian'>&#68739;</span>
@@ -141,7 +141,7 @@ And now something different: <span style='font-size:100px; font-family:Web_OldHu
   This is a **info** alert with <a href="https://www.w3schools.com/icons/bootstrap_icons_glyphicons.asp" class="alert-link">an example link</a>.
 </div>
 
- - [Complete list of github markdown emoji markup]({{ site.baseurl }}https://gist.github.com/rxaviers/7360908)
+ - [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
  - :flushed: :trollface: I give jemoji plugin two :+1:! 
 
 <div class="container">
@@ -169,6 +169,6 @@ And now something different: <span style='font-size:100px; font-family:Web_OldHu
 
 ## Related:
 
- - [Adam Pritchard's Markdown Cheatsheet]({{ site.baseurl }}https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ - [Adam Pritchard's Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  - Beautiful Jekyll demo
 

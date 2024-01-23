@@ -8,7 +8,7 @@ tags: [git, CLI]
 # comments: true
 lang: en
 ---
-![xkcd]({{ site.baseurl }}/img/20-03-04-git/xkcd.png)
+![xkcd](/img/20-03-04-git/xkcd.png)
 
 You clone a repository with `git clone URL`. For example, if you want to clone the Git linkable library called SUBDIR, you can do so like this:
 
@@ -32,7 +32,7 @@ Note the source repo is called `origin` and your new local is `master` by defaul
 
 Example output:
 
-<!--![git status]({{ site.baseurl }}/img/20-03-04-git/git-status.png)-->
+<!--![git status](/img/20-03-04-git/git-status.png)-->
 
 To see all the diff in tracked files but are in unstaged state:
 
@@ -81,14 +81,14 @@ You should issue these command:
 
 ### More to check alias Todo
 
- - [git-annex]({{ site.baseurl }}https://git-annex.branchable.com/)
+ - [git-annex](https://git-annex.branchable.com/)
 
 ### Bonus - something totaly different
 
-[Academic Writing in Markdown]({{ site.baseurl }}https://youtu.be/hpAJMSS8pvs) with special reference to its advantages and features like creating footnotes, bibliographical references.
+[Academic Writing in Markdown](https://youtu.be/hpAJMSS8pvs) with special reference to its advantages and features like creating footnotes, bibliographical references.
 
 ### Notes
 
-[^note1]: How to see changes to a file before commit? [SO]({{ site.baseurl }}https://stackoverflow.com/questions/13787109/how-to-see-changes-to-a-file-before-commit/13787903)
-[^note2]: Difference between “git add -A” and “git add .” [SO]({{ site.baseurl }}https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add)
-[^clone]: [(Almost)All about git clone]({{ site.baseurl }}https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+[^note1]: How to see changes to a file before commit? [SO](https://stackoverflow.com/questions/13787109/how-to-see-changes-to-a-file-before-commit/13787903)
+[^note2]: Difference between “git add -A” and “git add .” [SO](https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add)
+[^clone]: [(Almost)All about git clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
