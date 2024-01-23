@@ -3,15 +3,15 @@ layout: post
 title: Kurt Vonnegut on Ignaz Semmelweis
 categories: other
 tags: [Kurt Vonnegut, Ignaz Semmelweis, Man without country]
-image: /img/20-03-23-semmelweis/vonnegut_man.png
+image: /bj-blog/img/20-03-23-semmelweis/vonnegut_man.png
 language: en
 ---
 
-![pic](/img/20-03-23-semmelweis/vonnegut_man.png)
+![pic](/bj-blog/img/20-03-23-semmelweis/vonnegut_man.png)
 
 In these covid-times more attentions were paid the work of Ignaz Semmelweis. Google was recognizing Ignaz Semmelweis and Handwashing with this Doodle: 
 
-[![googledoodle](/img/20-03-23-semmelweis/google_doodle_smw.png)](https://youtu.be/h8OX0FNWANM)
+[![googledoodle](/bj-blog/img/20-03-23-semmelweis/google_doodle_smw.png)](https://youtu.be/h8OX0FNWANM)
 
 Kurt Vonnegut depicted him as a "truly modern hero" in his collection of essays, A Man Without a Country.
 

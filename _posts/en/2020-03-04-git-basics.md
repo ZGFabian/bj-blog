@@ -2,13 +2,13 @@
 layout: post
 title: Git basics
 subtitle: from CLI
-image: /img/20-03-04-git/git-post-img.png
+image: /bj-blog/img/20-03-04-git/git-post-img.png
 categories: [Linux]
 tags: [git, CLI]
 # comments: true
 lang: en
 ---
-![xkcd](/img/20-03-04-git/xkcd.png)
+![xkcd](/bj-blog/img/20-03-04-git/xkcd.png)
 
 You clone a repository with `git clone URL`. For example, if you want to clone the Git linkable library called SUBDIR, you can do so like this:
 
@@ -32,7 +32,7 @@ Note the source repo is called `origin` and your new local is `master` by defaul
 
 Example output:
 
-<!--![git status](/img/20-03-04-git/git-status.png)-->
+<!--![git status](/bj-blog/img/20-03-04-git/git-status.png)-->
 
 To see all the diff in tracked files but are in unstaged state:
 

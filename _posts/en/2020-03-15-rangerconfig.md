@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ranger custom configuration
-image: /img/20-02-02/ranger-logo.png
+image: /bj-blog/img/20-02-02/ranger-logo.png
 categories: [Linux]
 tags: [CLI, ranger, configuration]
 lang: en

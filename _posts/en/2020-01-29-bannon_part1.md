@@ -2,7 +2,7 @@
 layout: post
 title: The great divide (part 1)
 subtitle: Interview with Steve Bannon
-image: /img/deep_canyon_v04.jpg
+image: /bj-blog/img/deep_canyon_v04.jpg
 categories: [other]
 tags: [politics, USA, Steve Bannon]
 lang: en

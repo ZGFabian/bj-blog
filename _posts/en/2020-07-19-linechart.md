@@ -2,7 +2,7 @@
 layout: post
 title: Multi-line chart - number of COVID deaths in V4 countries
 subtitle: ggplot, line chart, V4 countries, COVID-19
-image: /img/20-07-19-linechart/ggplot_logo.png
+image: /bj-blog/img/20-07-19-linechart/ggplot_logo.png
 categories: data
 tags: [R, rstats, data wrangling, tidyverse, dplyr, tidyr]
 language: en
@@ -56,6 +56,6 @@ p1 <- p1 + xlim(x = c(Sys.Date() - 60, NA)) # x scale range: previous 60 days
 p1
 ```
 
-![basic_plot_deaths.png](/img/20-07-19-linechart/basic_plot_deaths.png)
+![basic_plot_deaths.png](/bj-blog/img/20-07-19-linechart/basic_plot_deaths.png)
 
 That’s all. [The Rscript file is here](https://github.com/ZGFabian/datafiles/blob/master/v4_deaths.R).

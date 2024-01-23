@@ -14,7 +14,7 @@ To download the most recent version [visit project](https://github.com/ytdl-org/
 I borrowed from this [discussion](https://superuser.com/questions/927523/how-to-download-only-subtitles-of-videos-using-youtube-dl).
 
 When you need to download only subtitles in a given or all languages you have the following options according to the [documentations](https://github.com/ytdl-org/youtube-dl/blob/master/README.md#options) (`man youtube-dl` or `youtube-dl -h` depending on install method).
-[![screenshot](/img/20-02-04/yt-man.jpg)](/img/20-02-04/yt-man.jpg)
+[![screenshot](/bj-blog/img/20-02-04/yt-man.jpg)](/bj-blog/img/20-02-04/yt-man.jpg)
 
 The following command will download subtitles this [video](https://youtu.be/gDqAnOyAgt4) (America's Great Divide: Steve Bannon, 2nd Interview)
 Note: You can check the available languages and formats with `youtube-dl --list-subs YOUR_URI`. `--sub-lang en` specifies **English** langugage, and `skip-download` is the **only** part, that is an opt for subtitles only. In this way video content will not be downloaded.

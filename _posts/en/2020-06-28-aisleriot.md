@@ -13,4 +13,4 @@ I am a great fan of Freecell solitaire card game that is part of aisleriot packa
 Here are my favorites: dark version of C1 card set (C1B) from [gnome-look.org](https://www.gnome-look.org/p/1303420/) and Sin city theme:
 
 [Sin city](https://www.gnome-look.org/p/1303093/)
-[![screenshot of card themes](/img/20-06-28-freecell/freecell.png)](/img/20-06-28-freecell/freecell.png)
+[![screenshot of card themes](/bj-blog/img/20-06-28-freecell/freecell.png)](/bj-blog/img/20-06-28-freecell/freecell.png)

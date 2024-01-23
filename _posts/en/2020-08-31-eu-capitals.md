@@ -4,11 +4,11 @@ subtitle: and Castello Cavalcanti (palette)
 categories: data
 tags: [ggplot, sf, eurostat, maps, capitals, Wes Anderson]
 lang: en
-image: /img/20-08-31-capitals/cavalcanti-screenshot.png
+image: /bj-blog/img/20-08-31-capitals/cavalcanti-screenshot.png
 comments: true
 ---
 
-![half-p1-capseu-def.png](/img/20-08-31-capitals/half-p2-capseu-def.png) 
+![half-p1-capseu-def.png](/bj-blog/img/20-08-31-capitals/half-p2-capseu-def.png) 
 
 One can easily draw a map for 37 "Eurostat countries" as it was demonstrated in this [post](/2020-08-26-eurostat-maps/). However adding capital cities to the map can be tricky. The following example will use `{maps}` package for this purpose. The data at hand needs to be updated and cleaned to reflect recent political changes.
 
@@ -66,7 +66,7 @@ It is because (1) Czech Republic name changed to Czechia, (2) "Serbia and Monten
 	pal <- wes_palette("Cavalcanti1", 37, type = "continuous")
 	```
 
-The example above & the result presented below used [`Cavalcanti1`](/img/20-08-31-capitals/wesp-cavalcanti.png) palette, from the 2013 short film, [Castello Cavalcanti](https://youtu.be/b87B7zyucgI). 
+The example above & the result presented below used [`Cavalcanti1`](/bj-blog/img/20-08-31-capitals/wesp-cavalcanti.png) palette, from the 2013 short film, [Castello Cavalcanti](https://youtu.be/b87B7zyucgI). 
 
 7. Further aesthetics can be added via geom_text mapping to population size:
 
@@ -83,11 +83,11 @@ The example above & the result presented below used [`Cavalcanti1`](/img/20-08-3
 
 Result:
 
-![half-p1-capseu-def.png](/img/20-08-31-capitals/half-p1-capseu-def.png)
+![half-p1-capseu-def.png](/bj-blog/img/20-08-31-capitals/half-p1-capseu-def.png)
 
 
 
 Resources:
 
- - [R source code](/img/20-08-31-capitals/full-code-p1.R)
- - Capitals of 37 European countries [csv file](/img/20-08-31-capitals/eu-capitals.csv)
+ - [R source code](/bj-blog/img/20-08-31-capitals/full-code-p1.R)
+ - Capitals of 37 European countries [csv file](/bj-blog/img/20-08-31-capitals/eu-capitals.csv)

@@ -4,7 +4,7 @@ title: "Miller columns"
 subtitle: A historical investigation into the origin of ranger FM
 categories: [Linux]
 tags: [Miller columns, ranger, todo]
-image: /img/three_columns.jpg
+image: /bj-blog/img/three_columns.jpg
 lang: en
 ---
 

@@ -2,13 +2,13 @@
 layout: post
 title: Movable feast
 subtitle: A Hemingway book
-image: /img/20-01-31/MoveableFeast.jpg
+image: /bj-blog/img/20-01-31/MoveableFeast.jpg
 categories: [other]
 excerpt: "The memoir *A Movable Feast*, written by Ernest Hemingway, was published in 1964 and popularized the use of the expression as an idiom. There is little agreement as to what the idiom a movable feast actually means. One definition of a movable feast is of something that changes over time. Another definition is something that nourishes your soul, but is transitory. Yet a third definition is something special that one stumbles across. The term movable feast is also sometimes used in a humorous manner to mean a picnic or a progressive dinner. The plural form of movable feast is movable feasts."
 tags: [book, Hemingway]
 lang: en
 ---
-![book cover](/bj-blog/img/20-01-31/MoveableFeast.jpg)
+![book cover](/bj-blog/bj-blog/img/20-01-31/MoveableFeast.jpg)
 
 ## A movable feast
 
