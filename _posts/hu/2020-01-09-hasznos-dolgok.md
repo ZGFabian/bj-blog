@@ -51,7 +51,7 @@ lang: hu
  - Material Design for Bootstrap (https://mdbootstrap.com/)
  - Is [LBRY](https://youtu.be/Zf4ap52dJVI) a Viable Alternative to YouTube? ???
  - VIM (és nem súrolószer): Advocate no. 1.: [The Vim Tutorial - Part One - Basic Commands](https://youtu.be/ER5JYFKkYDg)
- - ![VIM adventures](/bj-blog/img/20-01-09/m_adventures.jpg) go to play [VIM adventures](https://vim-adventures.com/) VIM Adventures is an online game based on VIM's keyboard shortcuts (commands, motions and operators). It's the "Zelda meets text editing" game. It's a puzzle game for practicing and memorizing VIM commands (good old VI is also covered, of course). It's an easy way to learn VIM without a steep learning curve.
+ - Go to play [VIM adventures](https://vim-adventures.com/) VIM Adventures is an online game based on VIM's keyboard shortcuts (commands, motions and operators). 
  - [Configuring URxvt to Make It Usable and Less Ugly](https://addy-dclx.github.io/post/configuring-urxvt/)
  - [How to Quickly Resize, Convert & Modify Images from the Linux Terminal](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/)
  - [Some bashrc recommendations](https://youtu.be/_UrDsbs0-OE)
