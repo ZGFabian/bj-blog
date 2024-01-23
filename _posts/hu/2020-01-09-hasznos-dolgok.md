@@ -26,7 +26,7 @@ lang: hu
 
 # Language tools
 
-[![WordHippo](//bj-blog/img/20-01-09/wordhippo.jpg "Thesaurus and word tools")](https://www.wordhippo.com/)
+[![WordHippo](/bj-blog/img/20-01-09/wordhippo.jpg "Thesaurus and word tools")](https://www.wordhippo.com/)
 [![online Hemingway editor](/bj-blog/img/20-01-09/hemingway-editor.jpg "Grammar and style checker")](http://www.hemingwayapp.com/)
 
 ## Programming 
