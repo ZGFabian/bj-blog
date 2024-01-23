@@ -15,7 +15,7 @@ lang: hu
  - [Old Hungarian](https://oldhungarian.eu/index_en.html) - rovásírás 
  - Cowsay - [ASCII cow says things](https://textart.io/cowsay#)
  - [textart.io](https://textart.io/)
- - [Do Leonardo](https://www.mos.org/leonardo/activities/mirror-writing) - Leonardo's Mirror writing ![Self-portrait](https://upload.wikimedia.org/wikipedia/commons/b/ba/Leonardo_self.jpg#thumbnail2)
+ - [Do Leonardo](https://www.mos.org/leonardo/actities/mirror-writing) - Leonardo's Mirror writing ![Self-portrait](https://upload.wikimedia.org/wikipedia/commons/b/ba/Leonardo_self.jpg#thumbnail2)
 
 ### Command line
  - figlet
@@ -51,8 +51,8 @@ lang: hu
  - Material Design for Bootstrap (https://mdbootstrap.com/)
  - Is [LBRY](https://youtu.be/Zf4ap52dJVI) a Viable Alternative to YouTube? ???
  - VIM (és nem súrolószer): Advocate no. 1.: [The Vim Tutorial - Part One - Basic Commands](https://youtu.be/ER5JYFKkYDg)
- - [![VIM adventures](/img/20-01-09/vim_adventures.jpg#thumbnail "go to play VIM adventures")](https://vim-adventures.com/) VIM Adventures is an online game based on VIM's keyboard shortcuts (commands, motions and operators). It's the "Zelda meets text editing" game. It's a puzzle game for practicing and memorizing VIM commands (good old VI is also covered, of course). It's an easy way to learn VIM without a steep learning curve.
- - [Configuring URxvt to Make It Usable and Less Ugly](https://addy-dclxvi.github.io/post/configuring-urxvt/)
+ - [![VIM adventures](/bj-blog/img/20-01-09/m_adventures.jpg#thumbnail "go to play VIM adventures")](https://vim-adventures.com/) VIM Adventures is an online game based on VIM's keyboard shortcuts (commands, motions and operators). It's the "Zelda meets text editing" game. It's a puzzle game for practicing and memorizing VIM commands (good old VI is also covered, of course). It's an easy way to learn VIM without a steep learning curve.
+ - [Configuring URxvt to Make It Usable and Less Ugly](https://addy-dclx.github.io/post/configuring-urxvt/)
  - [How to Quickly Resize, Convert & Modify Images from the Linux Terminal](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/)
  - [Some bashrc recommendations](https://youtu.be/_UrDsbs0-OE)
  
@@ -66,7 +66,7 @@ lang: hu
  - Gist as script: <script src="https://gist.github.com/parkr/c08ee0f2726fd0e3909d.js"> </script> Also available as a GH plugin.
  - [Mundana](https://jekyll-themes.com/mundana/) is a minimal, bootstrap, typography jekyll theme. 
  - How to [Style Images With Markdown](https://www.xaprb.com/blog/how-to-style-images-with-markdown/)
- - [Rouge Theme Preview Page](https://spsarolkar.github.io/rouge-theme-preview/)
+ - [Rouge Theme Preew Page](https://spsarolkar.github.io/rouge-theme-preview/)
  - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
  - [Bootstrap demos and docs: cards](https://mdbootstrap.com/docs/jquery/components/cards/)
  - How to add Bootstrap 4 to Jekyll by [Marcelo Canina](https://github.com/marcanuy)
