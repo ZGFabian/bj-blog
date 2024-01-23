@@ -26,16 +26,16 @@ lang: hu
 
 # Language tools
 
-[![WordHippo](/bj-blog/img/20-01-09/wordhippo.jpg "Thesaurus and word tools")](https://www.wordhippo.com/)
-[![online Hemingway editor](/bj-blog/img/20-01-09/hemingway-editor.jpg "Grammar and style checker")](http://www.hemingwayapp.com/)
+[![WordHippo](/bj-blog/bj-blog/img/20-01-09/wordhippo.jpg "Thesaurus and word tools")](https://www.wordhippo.com/)
+[![online Hemingway editor](/bj-blog/bj-blog/img/20-01-09/hemingway-editor.jpg "Grammar and style checker")](http://www.hemingwayapp.com/)
 
 ## Programming 
  - Bropages: [http://bropages.org/](http://bropages.org/) - examples for CLI commands (try search for `man` -> `man ascii`, etc.)
  - fzy [project page](https://github.com/jhawthorn/fzy) - [ext screenshot svg](https://camo.githubusercontent.com/c4ead41cc064b16240a2b6292c197ca45fe34342/687474703a2f2f692e68617774682e63612f752f667a795f616e696d617465645f64656d6f2e737667) 
 
- <!--![gif](/bj-blog/img/20-01-09/fzy.gif)-->
+ <!--![gif](/bj-blog/bj-blog/img/20-01-09/fzy.gif)-->
 
- <img src="/bj-blog/img/20-01-09/fzy.gif" alt="FZY"
+ <img src="/bj-blog/bj-blog/img/20-01-09/fzy.gif" alt="FZY"
 	title="Fuzzy search with fzy" width="100" />
 
  - fzf fuzzy search integration with Ranger
