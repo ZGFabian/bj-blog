@@ -7,9 +7,10 @@ tags: [Francois Villon]
 lang: en
 ---
  - [Selected publications](/en/publications/)
+ -<!--- 
  - [Experiences](#)
  - [Skills](#)
-
+-->
 ![blabla](/bj-blog/img/site/blabla_av_orange.png)
 
 I know flies in milk  
