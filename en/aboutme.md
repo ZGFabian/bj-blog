@@ -10,6 +10,7 @@ lang: en
  - [Experiences](#)
  - [Skills](#)
 
+![blabla](/bj-blog/img/site/blabla_av_orange.png)
 
 I know flies in milk  
 I know the man by his clothes  
@@ -21,7 +22,3 @@ I know who labors and who loafs
 I know everything but myself.
 
 Francois Villon: Ballade (translated by Galway M. Kinnell)
-
-
-
-
