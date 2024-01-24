@@ -27,7 +27,7 @@ subtitle: instead of Hollywood
     <div class="post-list">
         {%- for post in site.categories[cat] -%}
             <div class="tag-entry">
-                <a href="{{ post.url | relative_url }}">{{- post.title -}}</a>:&nbsp;{{- post.subtitle -}}
+                <a href="{{ post.url | absolute_url }}">{{- post.title -}}</a>:&nbsp;{{- post.subtitle -}}
                 <div class="entry-date">
                     <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: "%Y-%m-%d" -}}</time>
                 </div>
