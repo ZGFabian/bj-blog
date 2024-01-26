@@ -8,7 +8,7 @@ lang: en
 
 # Hello who may concerns!
 
-[Beautiful Jekyll structure goes about here.](#todo) It uses the following js libraries.
+[Beautiful Jekyll structure goes about here.](#todo) It uses the following js libraries.???
 
 
 - Hello, this is a [yt video link](https://youtu.be/s0uawtiiNY4), created with lightbox.js. (Credit: [Jekyll Codex](https://jekyllcodex.org/without-plugins/)) Lightbox is included in `base.html` in `_layouts folder`. It "is a solution that loads your image links, your Youtube links and your Vimeo links automatically in a minimalistic and responsive pseudo window/overlay. No adjustment to your links is required, just follow the installation instructions below." [Source.](https://jekyllcodex.org/without-plugin/lightbox/)
