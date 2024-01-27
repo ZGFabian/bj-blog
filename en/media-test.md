@@ -17,22 +17,22 @@ lang: en
 
 ![gif with animation]({{ site.url | absolute_url }}/bj-blog/img/20-01-09/forkit.gif)
 
-- A self-generated (css-styled) thumbnail image linked to the original picture that is displayed via lightbox.js:
+- A self-generated (css-styled) thumbnail images linked to the original pictures that are displayed via lightbox.js:
 [![Click to view large image]({{ site.url | absolute_url }}/bj-blog/img/fa_album/image1.jpg#thumbnail "sheep cow alias Busó")]({{ site.url | absolute_url }}/bj-blog/img/fa_album/image1.jpg)
 
-[![blabla](/{{ site.url | absolute_url }}/img/blabla_av_white_bg.png#thumbnail "blablabla ...")({{ site.url | absolute_url }}/bj-blog/img/blabla_av_white_bg.png)
+[![blabla]({{ site.url | absolute_url }}/img/blabla_av_white_bg.png#thumbnail "blablabla ...")]({{ site.url | absolute_url }}/bj-blog/img/blabla_av_white_bg.png)
 
 
-These images are served from [weserv.nl](https://images.weserv.nl/docs/#how-it-works)
+Some of the following images are served from [weserv.nl](https://images.weserv.nl/docs/#how-it-works).
 ```html
 <img src="//images.weserv.nl/?url=images.weserv.nl/lichtenstein.jpg&w=300&h=300&fit=cover&a=focal-0-20">
 ```
 <img src="//images.weserv.nl/?url=images.weserv.nl/lichtenstein.jpg&w=300&h=300&fit=cover&a=focal-0-20">
 
-Animated WebP:
+Animated WebP? Oh yes, in this way
 ```
 <details> 
-  <summary>Q1: WebP image with animation?</summary>
+  <summary>Q1: WebP image with animation? (Click here for the answer.)</summary>
    <img src="//images.weserv.nl/?url=images.weserv.nl/banana.webp&h=300&output=gif&n=-1"> 
 </details>
 ```
