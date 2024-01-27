@@ -20,7 +20,7 @@ lang: en
 - A self-generated (css-styled) thumbnail image linked to the original picture that is displayed via lightbox.js:
 [![Click to view large image]({{ site.url | absolute_url }}/bj-blog/img/fa_album/image1.jpg#thumbnail "sheep cow alias Busó")]({{ site.url | absolute_url }}/bj-blog/img/fa_album/image1.jpg)
 
-[![blabla](/img/blabla_av_white_bg.png#thumbnail "blablabla ...")({{ site.url | absolute_url }}/bj-blog/img/blabla_av_white_bg.png)
+[![blabla](/{{ site.url | absolute_url }}/img/blabla_av_white_bg.png#thumbnail "blablabla ...")({{ site.url | absolute_url }}/bj-blog/img/blabla_av_white_bg.png)
 
 
 These images are served from [weserv.nl](https://images.weserv.nl/docs/#how-it-works)
