@@ -2,6 +2,7 @@
 layout: page
 title: About the site
 lang: en
+permalink: /en/aboutsite/
 galleries:
   - title: Jekyllrb.com
     image: /img/site/jekyll_logo.jpg
