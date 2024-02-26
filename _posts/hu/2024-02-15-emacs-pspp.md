@@ -12,7 +12,7 @@ A [*PSPP*](https://www.gnu.org/software/pspp/) az *SPSS* statisztikai program ny
 
 A régi múlt - az egyik legelcsépeltebb szólással élve - egyszerre áldás és átok. Adottak a *terminus technicus*-ok (pld. "buffer", "kill", "yank"), zavaró billentyűzet kombinációk és funkciók. (Pld. a másolás nem `Ctrl-C`, hanem `Alt-W`, de az `Alt` billentyűt véletlenül sem alt-nak hívják, hanem metának (`M`). A Windows billentyűt pedig Super-nek. Szuper: talán ezt hívják [útfüggőségnek](https://hu.wikipedia.org/wiki/%C3%9Atf%C3%BCgg%C5%91s%C3%A9g).
 
-[![Egy ősi billentyűzet, melyet a Wikipedián találtak a régészek](/bj-blog/img/24-02-23-emacs-pspp/640px-Space-cadet.jpg)](/bj-blog/img/24-02-23-emacs-pspp/1280px-Space-cadet.jpg)
+[![Egy ősi billentyűzet, melyet a Wikipedián találtak a régészek]({{ site.baseurl }}/img/24-02-23-emacs-pspp/640px-Space-cadet.jpg)]({{ site.baseurl }}/img/24-02-23-emacs-pspp/1280px-Space-cadet.jpg)
 
 Az Emacs szofisztikált környezetet kínál különböző statisztikai alkalmazásokhoz (pld. R, SAS, Stata) az [ESS ("**E**macs **S**peaks **S**tatistics")](https://ess.r-project.org/) csomag révén. A PSPP programozásához a pspp-mode nyújt támogatást, kiszínezi a kulcsszavakat és azok hárombetűs rövidítéseit, de automatikus kiegészítést nem kapunk. A [company-pspp.el](https://gist.github.com/ZGFabian/280cc97b7c51e1d120293c001bca0834) company-mode esetén ezt pótolja. 
 
@@ -35,6 +35,6 @@ Ha az Emacs shell-en pspp-t futtatunk, akkor a `CTR-ENTER` kombináció végreha
     ))
 ```
 
-A fenti programrészleteket az Emacs konfigurációs fájljához (.emacs) kell adnunk, amely Linux esetében általában a home könyvárunkban (`~/.emacs`) található.
+A fenti programrészleteket az Emacs konfigurációs fájljához (`.emacs`) célszerű adnunk, amely Linux esetében általában a home (`~`) könyvárunkban található.
 
 [![Képernyőkép](../../img/24-02-23-emacs-pspp/company-pspp-640.png)](../../img/24-02-23-emacs-pspp/company-pspp.png)
