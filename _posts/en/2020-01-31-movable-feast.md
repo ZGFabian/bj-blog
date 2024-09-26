@@ -8,7 +8,7 @@ excerpt: "The memoir *A Movable Feast*, written by Ernest Hemingway, was publish
 tags: [book, Hemingway]
 lang: en
 ---
-![book cover](/bj-blog/bj-blog/img/20-01-31/MoveableFeast.jpg)
+![book cover]({{ site.baseurl }}/bj-blog/img/20-01-31/MoveableFeast.jpg)
 
 ## A movable feast
 
