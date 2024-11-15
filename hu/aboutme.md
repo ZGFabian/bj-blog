@@ -1,16 +1,13 @@
 ---
 layout: page
-title: ID
-subtitle: Zoltán Fábián
-# permalink: /hu/aboutme/
-tags: [Francois Villon]
+permalink: /hu/aboutme/
 lang: hu
 ---
-[Válogatott publikációk](/hu/publications/)  
 
-> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Francois_Villon_1489.jpg"
->      alt="F. Villon" title="Apró képek balladája"
->      style="float: right; margin-right: 10px; zoom: 20%;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Francois_Villon_1489.jpg"
+      alt="F. Villon" title="Apró képek balladája"
+      style="float: right; margin-right: 10px; zoom: 20%;" />
+
 > "Tudom, mi tejben a légy,  
 > Tudom, mi tejben a légy,  
 > tudom, ruha teszi az embert,  
@@ -21,6 +18,4 @@ lang: hu
 > tudom a munkát, lusta kedvet,  
 > csak azt nem tudom, ki vagyok."
 
-<b><span title="A ne'er-do-well who was involved in criminal behavior and had multiple encounters with law enforcement authorities, Villon wrote about some of these experiences in his poems."><dfn>Francois Villon</dfn></span></b>: Apró képek balladája (részlet) Szabó Lőrinc fordítása)
-
-## [Ciao!](https://upload.wikimedia.org/wikipedia/commons/a/a5/Francois_Villon_1489.jpg)
+<b><span title="A ne'er-do-well who was involved in criminal behavior and had multiple encounters with law enforcement authorities, Villon wrote about some of these experiences in his poems."><dfn>Francois Villon</dfn></span></b>: Apró képek balladája (részlet) Szabó Lőrinc fordítása.

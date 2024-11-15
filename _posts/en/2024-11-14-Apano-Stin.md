@@ -68,6 +68,6 @@ On the bride's apron.
 και πέφτουν τα τριαντάφυλλα  
 μέσα στης νύφης την ποδιά  
 
-There are several versions available on Youtube. This one is full of positive energy by [Ghs Madiam](https://youtu.be/HJyLWbuGX5A?si=XIvcW8HtQq65OXpD), and this is a [funny elctric remix by Room 65 E3](https://youtu.be/J7WLqgZmpeo?si=A2xAaAc_zja4Iifx).
+There are several versions available on Youtube. This one is full of positive energy by [Ghs Madiam](https://youtu.be/HJyLWbuGX5A?si=XIvcW8HtQq65OXpD), and this is a funny electric remix by [Room 65 E3](https://youtu.be/J7WLqgZmpeo?si=A2xAaAc_zja4Iifx).
 
-[^1]:Translated by [Vanelaia at lyricstranslate.com](https://lyricstranslate.com/en/apano-stin-triandafillia-rose-bush.html). 
+[^1]:Translated by [Vanelaia](https://lyricstranslate.com/en/apano-stin-triandafillia-rose-bush.html) at lyricstranslate.com. 

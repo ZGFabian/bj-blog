@@ -2,7 +2,7 @@
 title: Blablabla
 
 # Short description of your site
-description: Talált dolgok, i.e. Odds and ends 
+description: limlom ~ Odds and ends 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,19 +20,19 @@ description: Talált dolgok, i.e. Odds and ends
 navbar-links:
   En: 
     - About me: "en/aboutme"
-    - Publications: "/en/publications"
+#    - Publications: "/en/publications"
     - Posts: /en/english-only/
     - Data: /en/english-only-data/
     - Linux: /en/english-only-linux/
     - Odds and ends: /en/english-only-other/
   Hu:
     - Bemutatkozás: "/hu/aboutme"
-    - Publikációk: "/hu/publications"
+ #   - Publikációk: "/hu/publications"
     - Bejegyzések: /hu/hu-only/
     - Adatok: /hu/hu-only-data/
     - Linux: /hu/hu-only-linux/
     - Limlom: /hu/hu-only-other/
-  Továbbiak:
+  Plus(z):
     - Jekyll cheats: "https://devhints.io/jekyll"
     - Beautiful Jekyll theme: "http://deanattali.com/beautiful-jekyll/"
     - Markdown: "https://www.markdownguide.org/basic-syntax/"
@@ -71,7 +71,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Zoltán Fábián
+  name: zooltan
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -98,7 +98,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+#  twitter: true
 #  facebook: true
 #  linkedin: true
   
