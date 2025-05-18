@@ -63,7 +63,7 @@ superuser- [Cutting Video](https://blog.superuser.com/2012/02/24/ffmpeg-the-ulti
   <ul>
         {% if post.lang == 'en' %}
           <li>
-            <a href='{{ post.url }}'>{{ post.title }}</a> 
+            <a href='{{ post.url | absolute_url }}'>{{ post.title }}</a> 
           </li>
         {% endif %}
   </ul>
